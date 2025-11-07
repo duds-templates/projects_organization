@@ -1001,5 +1001,202 @@
       }
     ],
     "commands": []
+  },
+  {
+    "project": "astro_template",
+    "path": "/Users/dalerogers/Projects/templates/astro_template",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "astro-best-practices.md",
+        "relative_path": "rules/astro-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/astro_template/.cursor/rules/astro-best-practices.md",
+        "size": 2110,
+        "hash": "0895b2bbe171d4c82b2065dd63a3c5bc",
+        "extension": ".md"
+      },
+      {
+        "filename": "content-guidelines.md",
+        "relative_path": "rules/content-guidelines.md",
+        "full_path": "/Users/dalerogers/Projects/templates/astro_template/.cursor/rules/content-guidelines.md",
+        "size": 1151,
+        "hash": "5449941a856d5662a788c5b33a61d965",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "create-page.sh",
+        "relative_path": "commands/create-page.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/astro_template/.cursor/commands/create-page.sh",
+        "size": 589,
+        "hash": "c4b0ee341900405e4bed8077541a3588",
+        "extension": ".sh"
+      }
+    ]
+  },
+  {
+    "project": "nextjs_typescript_template",
+    "path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "typescript-best-practices.md",
+        "relative_path": "rules/typescript-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template/.cursor/rules/typescript-best-practices.md",
+        "size": 1436,
+        "hash": "4179ee03a74939c53ed063208d775080",
+        "extension": ".md"
+      },
+      {
+        "filename": "react-best-practices.md",
+        "relative_path": "rules/react-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template/.cursor/rules/react-best-practices.md",
+        "size": 1757,
+        "hash": "ad2d9c77e79308d46fb61102db829edd",
+        "extension": ".md"
+      },
+      {
+        "filename": "nextjs-conventions.md",
+        "relative_path": "rules/nextjs-conventions.md",
+        "full_path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template/.cursor/rules/nextjs-conventions.md",
+        "size": 1457,
+        "hash": "6ad5b1bada69472539e166363c45018f",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "create-component.sh",
+        "relative_path": "commands/create-component.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template/.cursor/commands/create-component.sh",
+        "size": 870,
+        "hash": "180b391c7d4d250a9185dfb7f1cd9b3d",
+        "extension": ".sh"
+      },
+      {
+        "filename": "create-api-route.sh",
+        "relative_path": "commands/create-api-route.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/nextjs_typescript_template/.cursor/commands/create-api-route.sh",
+        "size": 897,
+        "hash": "99d42012c3964c73f3a854224a26f45a",
+        "extension": ".sh"
+      }
+    ]
+  },
+  {
+    "project": "python_fastapi_template",
+    "path": "/Users/dalerogers/Projects/templates/python_fastapi_template",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "python-best-practices.md",
+        "relative_path": "rules/python-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/python_fastapi_template/.cursor/rules/python-best-practices.md",
+        "size": 2196,
+        "hash": "4432f0842e4b5af3c605d0ac9b83a964",
+        "extension": ".md"
+      },
+      {
+        "filename": "fastapi-conventions.md",
+        "relative_path": "rules/fastapi-conventions.md",
+        "full_path": "/Users/dalerogers/Projects/templates/python_fastapi_template/.cursor/rules/fastapi-conventions.md",
+        "size": 2903,
+        "hash": "094441e2eacb3365de33fd3a77981129",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "create-router.sh",
+        "relative_path": "commands/create-router.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/python_fastapi_template/.cursor/commands/create-router.sh",
+        "size": 1392,
+        "hash": "d565e4f066c30528601dcb03da86bf1e",
+        "extension": ".sh"
+      }
+    ]
+  },
+  {
+    "project": "powerpages_dotnet_azure_template",
+    "path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "powerpages-conventions.md",
+        "relative_path": "rules/powerpages-conventions.md",
+        "full_path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template/.cursor/rules/powerpages-conventions.md",
+        "size": 6250,
+        "hash": "f331314773c27db376c7b1aa11a9d29b",
+        "extension": ".md"
+      },
+      {
+        "filename": "dotnet-best-practices.md",
+        "relative_path": "rules/dotnet-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template/.cursor/rules/dotnet-best-practices.md",
+        "size": 4646,
+        "hash": "b65930061177b327799e915bff1962bc",
+        "extension": ".md"
+      },
+      {
+        "filename": "azure-best-practices.md",
+        "relative_path": "rules/azure-best-practices.md",
+        "full_path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template/.cursor/rules/azure-best-practices.md",
+        "size": 7097,
+        "hash": "5b15ef07ee1a6c003b7751b570cea1e1",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "add-migration.sh",
+        "relative_path": "commands/add-migration.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template/.cursor/commands/add-migration.sh",
+        "size": 619,
+        "hash": "5263389ba15efbad8b078e246f946f95",
+        "extension": ".sh"
+      },
+      {
+        "filename": "create-controller.sh",
+        "relative_path": "commands/create-controller.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/powerpages_dotnet_azure_template/.cursor/commands/create-controller.sh",
+        "size": 3081,
+        "hash": "f67f953bedc9b41ff4a320f7c6b2f5db",
+        "extension": ".sh"
+      }
+    ]
+  },
+  {
+    "project": "static_html_template",
+    "path": "/Users/dalerogers/Projects/templates/static_html_template",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "performance.md",
+        "relative_path": "rules/performance.md",
+        "full_path": "/Users/dalerogers/Projects/templates/static_html_template/.cursor/rules/performance.md",
+        "size": 2609,
+        "hash": "1dc72018686144ac869a61d4c8b0988b",
+        "extension": ".md"
+      },
+      {
+        "filename": "web-standards.md",
+        "relative_path": "rules/web-standards.md",
+        "full_path": "/Users/dalerogers/Projects/templates/static_html_template/.cursor/rules/web-standards.md",
+        "size": 2795,
+        "hash": "f445642beee0f41baf06ba7e5bd24d82",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "create-section.sh",
+        "relative_path": "commands/create-section.sh",
+        "full_path": "/Users/dalerogers/Projects/templates/static_html_template/.cursor/commands/create-section.sh",
+        "size": 743,
+        "hash": "c25d7fe4da679bc20a8393a34f23c35c",
+        "extension": ".sh"
+      }
+    ]
   }
 ]

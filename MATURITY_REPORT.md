@@ -1,6 +1,6 @@
 # Project Maturity Report
 
-**Last Updated:** 07/11/2025 11:34
+**Last Updated:** 07/11/2025 14:40
 
 This report provides detailed maturity assessments for all projects.
 
@@ -23,13 +23,19 @@ Projects are scored on a scale of 0-10 based on:
 - **Archived (0-1):** Deprecated, superseded, or abandoned
 
 
-## Experimental Projects (3)
+## Experimental Projects (4)
 
 
-### cursor_rules_library - 2.0/10
+### cursor_rules_library - 3.0/10
 
 - **Tech Stack:** None
 - **Path:** `/Users/dalerogers/Projects/cursor_rules_library`
+
+
+### templates - 3.0/10
+
+- **Tech Stack:** None
+- **Path:** `/Users/dalerogers/Projects/templates`
 
 
 ### portfolio - 2.0/10
@@ -45,19 +51,13 @@ Projects are scored on a scale of 0-10 based on:
 - **Path:** `/Users/dalerogers/Projects/active`
 
 
-## Archived Projects (3)
+## Archived Projects (2)
 
 
 ### learning - 0.0/10
 
 - **Tech Stack:** None
 - **Path:** `/Users/dalerogers/Projects/learning`
-
-
-### templates - 0.0/10
-
-- **Tech Stack:** None
-- **Path:** `/Users/dalerogers/Projects/templates`
 
 
 ### archived - 0.0/10

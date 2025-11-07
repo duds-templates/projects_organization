@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T11:34:48.197623",
+  "generated_at": "2025-11-07T14:40:09.063458",
   "version": "1.0.0",
   "projects": [
     {
@@ -14,17 +14,17 @@
         ]
       },
       "maturity": {
-        "score": 2.0,
+        "score": 3.0,
         "level": "Experimental"
       },
       "git": {
-        "has_repo": false,
-        "remote_url": null,
-        "last_commit": null
+        "has_repo": true,
+        "remote_url": "https://github.com/duds-templates/cursor_rules_library.git",
+        "last_commit": "2025-11-07 12:17:18 +1100"
       },
       "github": null,
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197633"
+      "last_updated": "2025-11-07T14:40:09.063468"
     },
     {
       "name": "learning",
@@ -48,7 +48,7 @@
       },
       "github": null,
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197638"
+      "last_updated": "2025-11-07T14:40:09.063472"
     },
     {
       "name": "portfolio",
@@ -78,7 +78,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197641"
+      "last_updated": "2025-11-07T14:40:09.063475"
     },
     {
       "name": "templates",
@@ -92,17 +92,17 @@
         ]
       },
       "maturity": {
-        "score": 0.0,
-        "level": "Archived"
+        "score": 3.0,
+        "level": "Experimental"
       },
       "git": {
-        "has_repo": false,
-        "remote_url": null,
-        "last_commit": null
+        "has_repo": true,
+        "remote_url": "https://github.com/duds-templates/project_templates.git",
+        "last_commit": "2025-11-07 14:25:26 +1100"
       },
       "github": null,
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197644"
+      "last_updated": "2025-11-07T14:40:09.063478"
     },
     {
       "name": "active",
@@ -126,7 +126,7 @@
       },
       "github": null,
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197646"
+      "last_updated": "2025-11-07T14:40:09.063481"
     },
     {
       "name": "archived",
@@ -150,7 +150,7 @@
       },
       "github": null,
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197648"
+      "last_updated": "2025-11-07T14:40:09.063482"
     },
     {
       "name": "aegrid",
@@ -178,7 +178,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197928"
+      "last_updated": "2025-11-07T14:40:09.063788"
     },
     {
       "name": "beanheads",
@@ -206,7 +206,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197940"
+      "last_updated": "2025-11-07T14:40:09.063802"
     },
     {
       "name": "bid_writer",
@@ -234,7 +234,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197957"
+      "last_updated": "2025-11-07T14:40:09.063824"
     },
     {
       "name": "bid_writer_mvp",
@@ -262,7 +262,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197968"
+      "last_updated": "2025-11-07T14:40:09.063835"
     },
     {
       "name": "blender_mcp",
@@ -290,7 +290,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197977"
+      "last_updated": "2025-11-07T14:40:09.063844"
     },
     {
       "name": "blinko",
@@ -318,7 +318,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197983"
+      "last_updated": "2025-11-07T14:40:09.063850"
     },
     {
       "name": "capopt_platform",
@@ -346,7 +346,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197989"
+      "last_updated": "2025-11-07T14:40:09.063857"
     },
     {
       "name": "circa_3_d__printer",
@@ -374,7 +374,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.197998"
+      "last_updated": "2025-11-07T14:40:09.063866"
     },
     {
       "name": "critical_view360",
@@ -402,7 +402,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198007"
+      "last_updated": "2025-11-07T14:40:09.063876"
     },
     {
       "name": "dale_rogers_portfolio",
@@ -430,7 +430,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198015"
+      "last_updated": "2025-11-07T14:40:09.063884"
     },
     {
       "name": "google_docs_scripts",
@@ -458,7 +458,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198025"
+      "last_updated": "2025-11-07T14:40:09.063894"
     },
     {
       "name": "llama_index_javascript",
@@ -486,7 +486,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198033"
+      "last_updated": "2025-11-07T14:40:09.063902"
     },
     {
       "name": "mowing",
@@ -514,7 +514,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198040"
+      "last_updated": "2025-11-07T14:40:09.063909"
     },
     {
       "name": "my_nab",
@@ -542,7 +542,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198047"
+      "last_updated": "2025-11-07T14:40:09.063917"
     },
     {
       "name": "oi__piranha",
@@ -570,7 +570,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198055"
+      "last_updated": "2025-11-07T14:40:09.063925"
     },
     {
       "name": "portfolio_v3",
@@ -598,7 +598,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198063"
+      "last_updated": "2025-11-07T14:40:09.063932"
     },
     {
       "name": "procedural_design_scratch",
@@ -626,7 +626,7 @@
         "archived": false
       },
       "status": "active",
-      "last_updated": "2025-11-07T11:34:48.198071"
+      "last_updated": "2025-11-07T14:40:09.063941"
     }
   ]
 }

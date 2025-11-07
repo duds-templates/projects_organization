@@ -1,6 +1,6 @@
 # Technology Stacks Breakdown
 
-**Last Updated:** 07/11/2025 11:34
+**Last Updated:** 07/11/2025 14:40
 
 This document provides a comprehensive breakdown of all projects organised by technology stack.
 
@@ -51,7 +51,7 @@ This document provides a comprehensive breakdown of all projects organised by te
 
 ## Unknown (13 projects)
 
-- **cursor_rules_library** (2.0/10 - Experimental)
+- **cursor_rules_library** (3.0/10 - Experimental)
   - Path: `/Users/dalerogers/Projects/cursor_rules_library`
   - Categories: Experiments
 
@@ -63,7 +63,7 @@ This document provides a comprehensive breakdown of all projects organised by te
   - Path: `/Users/dalerogers/Projects/portfolio`
   - Categories: Experiments
 
-- **templates**
+- **templates** (3.0/10 - Experimental)
   - Path: `/Users/dalerogers/Projects/templates`
   - Categories: Experiments
 

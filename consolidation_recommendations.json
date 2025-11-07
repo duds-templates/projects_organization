@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T11:34:48.061114",
+  "generated_at": "2025-11-07T14:40:08.924379",
   "duplicates_and_overlaps": [
     {
       "project1": "portfolio",
@@ -660,52 +660,6 @@
       }
     },
     {
-      "name": "templates",
-      "reasons": [
-        "Maturity level is 'Archived' (score: 0.0)",
-        "Not a git repository",
-        "No README or minimal documentation"
-      ],
-      "priority": 2,
-      "maturity": {
-        "score": 0.0,
-        "level": "Archived",
-        "details": [],
-        "raw_score": 0,
-        "max_score": 10
-      },
-      "project_data": {
-        "name": "templates",
-        "path": "/Users/dalerogers/Projects/templates",
-        "git_info": {
-          "is_git_repo": false,
-          "last_commit": null,
-          "remote_url": null,
-          "branch": null,
-          "has_uncommitted": false
-        },
-        "tech_stack": {
-          "primary_language": null,
-          "framework": null,
-          "build_tools": [],
-          "package_manager": null,
-          "categories": [
-            "Experiments"
-          ],
-          "found_files": []
-        },
-        "maturity": {
-          "score": 0.0,
-          "level": "Archived",
-          "details": [],
-          "raw_score": 0,
-          "max_score": 10
-        },
-        "github_repo": null,
-        "status": "local_only"
-      }
-    },
-    {
       "name": "GoogleDocsScripts",
       "reasons": [
         "Very small repository"
@@ -915,54 +869,6 @@
       }
     },
     {
-      "name": "cursor_rules_library",
-      "reasons": [
-        "Not a git repository"
-      ],
-      "priority": 1,
-      "maturity": {
-        "score": 2.0,
-        "level": "Experimental",
-        "details": [
-          "Has comprehensive README (2 pts)"
-        ],
-        "raw_score": 2,
-        "max_score": 10
-      },
-      "project_data": {
-        "name": "cursor_rules_library",
-        "path": "/Users/dalerogers/Projects/cursor_rules_library",
-        "git_info": {
-          "is_git_repo": false,
-          "last_commit": null,
-          "remote_url": null,
-          "branch": null,
-          "has_uncommitted": false
-        },
-        "tech_stack": {
-          "primary_language": null,
-          "framework": null,
-          "build_tools": [],
-          "package_manager": null,
-          "categories": [
-            "Experiments"
-          ],
-          "found_files": []
-        },
-        "maturity": {
-          "score": 2.0,
-          "level": "Experimental",
-          "details": [
-            "Has comprehensive README (2 pts)"
-          ],
-          "raw_score": 2,
-          "max_score": 10
-        },
-        "github_repo": null,
-        "status": "local_only"
-      }
-    },
-    {
       "name": "llama-index-javascript",
       "reasons": [
         "Fork (may not need local copy)"
@@ -1111,11 +1017,10 @@
         "CriticalView360",
         "OI-Piranha",
         "archived",
-        "learning",
-        "templates"
+        "learning"
       ],
       "action": "archive",
-      "recommendation": "\n6 projects are strong candidates for archiving:\n\n• Circa-3D-Printer: Fork (may not need local copy), No activity in 6 years\n• CriticalView360: No activity in 2 years\n• OI-Piranha: No activity in 8 years\n• archived: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation\n• learning: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation\n• templates: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation",
+      "recommendation": "\n5 projects are strong candidates for archiving:\n\n• Circa-3D-Printer: Fork (may not need local copy), No activity in 6 years\n• CriticalView360: No activity in 2 years\n• OI-Piranha: No activity in 8 years\n• archived: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation\n• learning: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation",
       "priority": "HIGH"
     },
     {

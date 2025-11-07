@@ -1,6 +1,6 @@
 # Projects Directory
 
-**Last Updated:** 07/11/2025 11:34
+**Last Updated:** 07/11/2025 14:40
 
 ## Overview
 
@@ -15,8 +15,8 @@ This directory contains all projects organised using a structured system with au
 
 ### Maturity Distribution
 
-- **Experimental:** 3 projects
-- **Archived:** 3 projects
+- **Experimental:** 4 projects
+- **Archived:** 2 projects
 - **Unknown:** 17 projects
 
 ### Technology Stacks
@@ -62,11 +62,11 @@ This directory contains all projects organised using a structured system with au
 
 ### Top Projects by Maturity
 
-1. **cursor_rules_library** - 2.0/10 (Experimental)
-2. **portfolio** - 2.0/10 (Experimental)
-3. **active** - 2.0/10 (Experimental)
-4. **learning** - 0.0/10 (Archived)
-5. **templates** - 0.0/10 (Archived)
+1. **cursor_rules_library** - 3.0/10 (Experimental)
+2. **templates** - 3.0/10 (Experimental)
+3. **portfolio** - 2.0/10 (Experimental)
+4. **active** - 2.0/10 (Experimental)
+5. **learning** - 0.0/10 (Archived)
 
 
 ## 🚀 Getting Started
