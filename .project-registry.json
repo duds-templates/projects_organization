@@ -1,0 +1,632 @@
+{
+  "generated_at": "2025-11-07T11:34:48.197623",
+  "version": "1.0.0",
+  "projects": [
+    {
+      "name": "cursor_rules_library",
+      "original_name": "cursor_rules_library",
+      "path": "/Users/dalerogers/Projects/cursor_rules_library",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": null,
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197633"
+    },
+    {
+      "name": "learning",
+      "original_name": "learning",
+      "path": "/Users/dalerogers/Projects/learning",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": null,
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197638"
+    },
+    {
+      "name": "portfolio",
+      "original_name": "portfolio",
+      "path": "/Users/dalerogers/Projects/portfolio",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": {
+        "url": "https://github.com/Duds/portfolio",
+        "description": null,
+        "stars": 0,
+        "language": "MDX",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197641"
+    },
+    {
+      "name": "templates",
+      "original_name": "templates",
+      "path": "/Users/dalerogers/Projects/templates",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": null,
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197644"
+    },
+    {
+      "name": "active",
+      "original_name": "active",
+      "path": "/Users/dalerogers/Projects/active",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": null,
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197646"
+    },
+    {
+      "name": "archived",
+      "original_name": "archived",
+      "path": "/Users/dalerogers/Projects/archived",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": [
+          "Experiments"
+        ]
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived"
+      },
+      "git": {
+        "has_repo": false,
+        "remote_url": null,
+        "last_commit": null
+      },
+      "github": null,
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197648"
+    },
+    {
+      "name": "aegrid",
+      "original_name": "Aegrid",
+      "path": "/Users/dalerogers/Projects/active/experimental/aegrid",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/Aegrid.git",
+        "last_commit": "2025-11-06T03:08:06Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/Aegrid",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197928"
+    },
+    {
+      "name": "beanheads",
+      "original_name": "beanheads",
+      "path": "/Users/dalerogers/Projects/learning/beanheads",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/beanheads.git",
+        "last_commit": "2024-06-20T22:45:16Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/beanheads",
+        "description": "Easily create characters for your projects",
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197940"
+    },
+    {
+      "name": "bid_writer",
+      "original_name": "BidWriter",
+      "path": "/Users/dalerogers/Projects/active/experimental/bid_writer",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/BidWriter.git",
+        "last_commit": "2025-04-06T05:52:23Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/BidWriter",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197957"
+    },
+    {
+      "name": "bid_writer_mvp",
+      "original_name": "BidWriter_MVP",
+      "path": "/Users/dalerogers/Projects/active/experimental/bid_writer_mvp",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/BidWriter_MVP.git",
+        "last_commit": "2025-04-19T06:36:34Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/BidWriter_MVP",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197968"
+    },
+    {
+      "name": "blender_mcp",
+      "original_name": "blender-mcp",
+      "path": "/Users/dalerogers/Projects/learning/blender_mcp",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/blender-mcp.git",
+        "last_commit": "2025-10-20T11:26:25Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/blender-mcp",
+        "description": null,
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197977"
+    },
+    {
+      "name": "blinko",
+      "original_name": "blinko",
+      "path": "/Users/dalerogers/Projects/learning/blinko",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/blinko.git",
+        "last_commit": "2025-04-14T05:33:59Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/blinko",
+        "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197983"
+    },
+    {
+      "name": "capopt_platform",
+      "original_name": "capopt_platform",
+      "path": "/Users/dalerogers/Projects/active/experimental/capopt_platform",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/capopt_platform.git",
+        "last_commit": "2025-08-06T00:43:44Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/capopt_platform",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197989"
+    },
+    {
+      "name": "circa_3_d__printer",
+      "original_name": "Circa-3D-Printer",
+      "path": "/Users/dalerogers/Projects/learning/circa_3_d__printer",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/Circa-3D-Printer.git",
+        "last_commit": "2019-03-14T14:07:25Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/Circa-3D-Printer",
+        "description": "The Circa 3D Printer is an open source Polar 3D printer designed by and for artists, designers and engineers",
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.197998"
+    },
+    {
+      "name": "critical_view360",
+      "original_name": "CriticalView360",
+      "path": "/Users/dalerogers/Projects/archived/critical_view360",
+      "tech_stack": {
+        "primary_language": "JavaScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/CriticalView360.git",
+        "last_commit": "2023-09-03T05:11:47Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/CriticalView360",
+        "description": "CriticalView360 revolutionizes risk management in high-risk industries, providing an intuitive web application for managing critical control plans. With AI-powered modules and visualizations, it simplifies risk assessment and enhances safety.",
+        "stars": 0,
+        "language": "JavaScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198007"
+    },
+    {
+      "name": "dale_rogers_portfolio",
+      "original_name": "dale-rogers-portfolio",
+      "path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio",
+      "tech_stack": {
+        "primary_language": "JavaScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/dale-rogers-portfolio.git",
+        "last_commit": "2025-10-12T02:44:30Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/dale-rogers-portfolio",
+        "description": null,
+        "stars": 0,
+        "language": "JavaScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198015"
+    },
+    {
+      "name": "google_docs_scripts",
+      "original_name": "GoogleDocsScripts",
+      "path": "/Users/dalerogers/Projects/active/experimental/google_docs_scripts",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/GoogleDocsScripts.git",
+        "last_commit": "2023-12-22T00:03:53Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/GoogleDocsScripts",
+        "description": "A repository for maintaining google docs scripts",
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198025"
+    },
+    {
+      "name": "llama_index_javascript",
+      "original_name": "llama-index-javascript",
+      "path": "/Users/dalerogers/Projects/learning/llama_index_javascript",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/llama-index-javascript.git",
+        "last_commit": "2025-03-21T17:21:43Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/llama-index-javascript",
+        "description": "This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀",
+        "stars": 0,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198033"
+    },
+    {
+      "name": "mowing",
+      "original_name": "mowing",
+      "path": "/Users/dalerogers/Projects/active/experimental/mowing",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/mowing.git",
+        "last_commit": "2025-10-31T04:54:59Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/mowing",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198040"
+    },
+    {
+      "name": "my_nab",
+      "original_name": "MyNAB",
+      "path": "/Users/dalerogers/Projects/active/experimental/my_nab",
+      "tech_stack": {
+        "primary_language": "TypeScript",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/MyNAB.git",
+        "last_commit": "2025-08-15T03:46:57Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/MyNAB",
+        "description": "A modern, production-ready financial management application with Next.js, TypeScript, Tailwind CSS v4 (PostCSS-free), shadcn/ui, Prisma, PostgreSQL, and comprehensive testing.",
+        "stars": 0,
+        "language": "TypeScript",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198047"
+    },
+    {
+      "name": "oi__piranha",
+      "original_name": "OI-Piranha",
+      "path": "/Users/dalerogers/Projects/archived/oi__piranha",
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/OI-Piranha.git",
+        "last_commit": "2016-11-09T10:43:14Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/OI-Piranha",
+        "description": "Open Inspired Piranha, an open source quadcopter design.",
+        "stars": 5,
+        "language": null,
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198055"
+    },
+    {
+      "name": "portfolio_v3",
+      "original_name": "portfolio-v3",
+      "path": "/Users/dalerogers/Projects/portfolio/portfolio_v3",
+      "tech_stack": {
+        "primary_language": "CSS",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/portfolio-v3.git",
+        "last_commit": "2025-10-17T00:26:06Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/portfolio-v3",
+        "description": null,
+        "stars": 0,
+        "language": "CSS",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198063"
+    },
+    {
+      "name": "procedural_design_scratch",
+      "original_name": "procedural-design-scratch",
+      "path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch",
+      "tech_stack": {
+        "primary_language": "Jupyter Notebook",
+        "framework": null,
+        "categories": []
+      },
+      "maturity": {
+        "score": null,
+        "level": "Unknown"
+      },
+      "git": {
+        "has_repo": true,
+        "remote_url": "https://github.com/Duds/procedural-design-scratch.git",
+        "last_commit": "2025-11-05T04:06:34Z"
+      },
+      "github": {
+        "url": "https://github.com/Duds/procedural-design-scratch",
+        "description": null,
+        "stars": 0,
+        "language": "Jupyter Notebook",
+        "archived": false
+      },
+      "status": "active",
+      "last_updated": "2025-11-07T11:34:48.198071"
+    }
+  ]
+}

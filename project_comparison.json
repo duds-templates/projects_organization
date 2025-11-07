@@ -1,0 +1,980 @@
+{
+  "local_only": [
+    {
+      "name": "cursor_rules_library",
+      "path": "/Users/dalerogers/Projects/cursor_rules_library",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive README (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "learning",
+      "path": "/Users/dalerogers/Projects/learning",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "templates",
+      "path": "/Users/dalerogers/Projects/templates",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "active",
+      "path": "/Users/dalerogers/Projects/active",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "archived",
+      "path": "/Users/dalerogers/Projects/archived",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    }
+  ],
+  "remote_only": [
+    {
+      "name": "Aegrid",
+      "github_repo": {
+        "name": "Aegrid",
+        "full_name": "Duds/Aegrid",
+        "description": null,
+        "html_url": "https://github.com/Duds/Aegrid",
+        "clone_url": "https://github.com/Duds/Aegrid.git",
+        "ssh_url": "git@github.com:Duds/Aegrid.git",
+        "language": "TypeScript",
+        "size": 22997,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 96,
+        "created_at": "2025-09-10T02:49:03Z",
+        "updated_at": "2025-10-02T02:52:40Z",
+        "pushed_at": "2025-11-06T03:08:06Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "develop",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "beanheads",
+      "github_repo": {
+        "name": "beanheads",
+        "full_name": "Duds/beanheads",
+        "description": "Easily create characters for your projects",
+        "html_url": "https://github.com/Duds/beanheads",
+        "clone_url": "https://github.com/Duds/beanheads.git",
+        "ssh_url": "git@github.com:Duds/beanheads.git",
+        "language": null,
+        "size": 3902,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-04-17T01:24:25Z",
+        "updated_at": "2025-04-17T01:24:25Z",
+        "pushed_at": "2024-06-20T22:45:16Z",
+        "archived": false,
+        "disabled": false,
+        "fork": true,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": false
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "BidWriter",
+      "github_repo": {
+        "name": "BidWriter",
+        "full_name": "Duds/BidWriter",
+        "description": null,
+        "html_url": "https://github.com/Duds/BidWriter",
+        "clone_url": "https://github.com/Duds/BidWriter.git",
+        "ssh_url": "git@github.com:Duds/BidWriter.git",
+        "language": "TypeScript",
+        "size": 168,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-10-27T23:09:30Z",
+        "updated_at": "2025-04-06T05:52:27Z",
+        "pushed_at": "2025-04-06T05:52:23Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "BidWriter_MVP",
+      "github_repo": {
+        "name": "BidWriter_MVP",
+        "full_name": "Duds/BidWriter_MVP",
+        "description": null,
+        "html_url": "https://github.com/Duds/BidWriter_MVP",
+        "clone_url": "https://github.com/Duds/BidWriter_MVP.git",
+        "ssh_url": "git@github.com:Duds/BidWriter_MVP.git",
+        "language": "TypeScript",
+        "size": 427,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-04-14T06:03:40Z",
+        "updated_at": "2025-04-14T06:04:08Z",
+        "pushed_at": "2025-04-19T06:36:34Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "blender-mcp",
+      "github_repo": {
+        "name": "blender-mcp",
+        "full_name": "Duds/blender-mcp",
+        "description": null,
+        "html_url": "https://github.com/Duds/blender-mcp",
+        "clone_url": "https://github.com/Duds/blender-mcp.git",
+        "ssh_url": "git@github.com:Duds/blender-mcp.git",
+        "language": null,
+        "size": 547,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-11-03T23:45:58Z",
+        "updated_at": "2025-11-03T23:46:14Z",
+        "pushed_at": "2025-10-20T11:26:25Z",
+        "archived": false,
+        "disabled": false,
+        "fork": true,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": false
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "blinko",
+      "github_repo": {
+        "name": "blinko",
+        "full_name": "Duds/blinko",
+        "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+        "html_url": "https://github.com/Duds/blinko",
+        "clone_url": "https://github.com/Duds/blinko.git",
+        "ssh_url": "git@github.com:Duds/blinko.git",
+        "language": null,
+        "size": 14492,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-04-16T06:10:51Z",
+        "updated_at": "2025-05-04T10:10:57Z",
+        "pushed_at": "2025-04-14T05:33:59Z",
+        "archived": false,
+        "disabled": false,
+        "fork": true,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": false,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": false
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "capopt_platform",
+      "github_repo": {
+        "name": "capopt_platform",
+        "full_name": "Duds/capopt_platform",
+        "description": null,
+        "html_url": "https://github.com/Duds/capopt_platform",
+        "clone_url": "https://github.com/Duds/capopt_platform.git",
+        "ssh_url": "git@github.com:Duds/capopt_platform.git",
+        "language": "TypeScript",
+        "size": 1851,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-07-25T02:24:34Z",
+        "updated_at": "2025-08-06T00:43:49Z",
+        "pushed_at": "2025-08-06T00:43:44Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "Circa-3D-Printer",
+      "github_repo": {
+        "name": "Circa-3D-Printer",
+        "full_name": "Duds/Circa-3D-Printer",
+        "description": "The Circa 3D Printer is an open source Polar 3D printer designed by and for artists, designers and engineers",
+        "html_url": "https://github.com/Duds/Circa-3D-Printer",
+        "clone_url": "https://github.com/Duds/Circa-3D-Printer.git",
+        "ssh_url": "git@github.com:Duds/Circa-3D-Printer.git",
+        "language": null,
+        "size": 140169,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-11-03T04:35:46Z",
+        "updated_at": "2025-11-03T04:35:46Z",
+        "pushed_at": "2019-03-14T14:07:25Z",
+        "archived": false,
+        "disabled": false,
+        "fork": true,
+        "private": false,
+        "default_branch": "master",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": false
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "CriticalView360",
+      "github_repo": {
+        "name": "CriticalView360",
+        "full_name": "Duds/CriticalView360",
+        "description": "CriticalView360 revolutionizes risk management in high-risk industries, providing an intuitive web application for managing critical control plans. With AI-powered modules and visualizations, it simplifies risk assessment and enhances safety.",
+        "html_url": "https://github.com/Duds/CriticalView360",
+        "clone_url": "https://github.com/Duds/CriticalView360.git",
+        "ssh_url": "git@github.com:Duds/CriticalView360.git",
+        "language": "JavaScript",
+        "size": 25057,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-05-13T03:42:36Z",
+        "updated_at": "2023-05-13T06:57:30Z",
+        "pushed_at": "2023-09-03T05:11:47Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "dale-rogers-portfolio",
+      "github_repo": {
+        "name": "dale-rogers-portfolio",
+        "full_name": "Duds/dale-rogers-portfolio",
+        "description": null,
+        "html_url": "https://github.com/Duds/dale-rogers-portfolio",
+        "clone_url": "https://github.com/Duds/dale-rogers-portfolio.git",
+        "ssh_url": "git@github.com:Duds/dale-rogers-portfolio.git",
+        "language": "JavaScript",
+        "size": 93382,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-04-12T05:17:45Z",
+        "updated_at": "2025-10-03T20:18:16Z",
+        "pushed_at": "2025-10-12T02:44:30Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "develop",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "GoogleDocsScripts",
+      "github_repo": {
+        "name": "GoogleDocsScripts",
+        "full_name": "Duds/GoogleDocsScripts",
+        "description": "A repository for maintaining google docs scripts",
+        "html_url": "https://github.com/Duds/GoogleDocsScripts",
+        "clone_url": "https://github.com/Duds/GoogleDocsScripts.git",
+        "ssh_url": "git@github.com:Duds/GoogleDocsScripts.git",
+        "language": null,
+        "size": 1,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-12-22T00:03:53Z",
+        "updated_at": "2023-12-22T00:03:53Z",
+        "pushed_at": "2023-12-22T00:03:53Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "llama-index-javascript",
+      "github_repo": {
+        "name": "llama-index-javascript",
+        "full_name": "Duds/llama-index-javascript",
+        "description": "This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀",
+        "html_url": "https://github.com/Duds/llama-index-javascript",
+        "clone_url": "https://github.com/Duds/llama-index-javascript.git",
+        "ssh_url": "git@github.com:Duds/llama-index-javascript.git",
+        "language": null,
+        "size": 3940,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-04-08T00:00:15Z",
+        "updated_at": "2025-04-08T00:00:16Z",
+        "pushed_at": "2025-03-21T17:21:43Z",
+        "archived": false,
+        "disabled": false,
+        "fork": true,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": false,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": false
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "mowing",
+      "github_repo": {
+        "name": "mowing",
+        "full_name": "Duds/mowing",
+        "description": null,
+        "html_url": "https://github.com/Duds/mowing",
+        "clone_url": "https://github.com/Duds/mowing.git",
+        "ssh_url": "git@github.com:Duds/mowing.git",
+        "language": "TypeScript",
+        "size": 1874,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-10-31T04:08:09Z",
+        "updated_at": "2025-10-31T04:55:02Z",
+        "pushed_at": "2025-10-31T04:54:59Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "MyNAB",
+      "github_repo": {
+        "name": "MyNAB",
+        "full_name": "Duds/MyNAB",
+        "description": "A modern, production-ready financial management application with Next.js, TypeScript, Tailwind CSS v4 (PostCSS-free), shadcn/ui, Prisma, PostgreSQL, and comprehensive testing.",
+        "html_url": "https://github.com/Duds/MyNAB",
+        "clone_url": "https://github.com/Duds/MyNAB.git",
+        "ssh_url": "git@github.com:Duds/MyNAB.git",
+        "language": "TypeScript",
+        "size": 312,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-08-15T03:46:38Z",
+        "updated_at": "2025-08-15T03:47:01Z",
+        "pushed_at": "2025-08-15T03:46:57Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "OI-Piranha",
+      "github_repo": {
+        "name": "OI-Piranha",
+        "full_name": "Duds/OI-Piranha",
+        "description": "Open Inspired Piranha, an open source quadcopter design.",
+        "html_url": "https://github.com/Duds/OI-Piranha",
+        "clone_url": "https://github.com/Duds/OI-Piranha.git",
+        "ssh_url": "git@github.com:Duds/OI-Piranha.git",
+        "language": null,
+        "size": 103479,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "forks_count": 4,
+        "open_issues_count": 1,
+        "created_at": "2016-09-23T11:06:17Z",
+        "updated_at": "2022-02-24T15:02:51Z",
+        "pushed_at": "2016-11-09T10:43:14Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "master",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "portfolio-v3",
+      "github_repo": {
+        "name": "portfolio-v3",
+        "full_name": "Duds/portfolio-v3",
+        "description": null,
+        "html_url": "https://github.com/Duds/portfolio-v3",
+        "clone_url": "https://github.com/Duds/portfolio-v3.git",
+        "ssh_url": "git@github.com:Duds/portfolio-v3.git",
+        "language": "CSS",
+        "size": 430,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-10-14T05:34:53Z",
+        "updated_at": "2025-10-17T00:26:09Z",
+        "pushed_at": "2025-10-17T00:26:06Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    },
+    {
+      "name": "procedural-design-scratch",
+      "github_repo": {
+        "name": "procedural-design-scratch",
+        "full_name": "Duds/procedural-design-scratch",
+        "description": null,
+        "html_url": "https://github.com/Duds/procedural-design-scratch",
+        "clone_url": "https://github.com/Duds/procedural-design-scratch.git",
+        "ssh_url": "git@github.com:Duds/procedural-design-scratch.git",
+        "language": "Jupyter Notebook",
+        "size": 121,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-11-04T22:15:50Z",
+        "updated_at": "2025-11-05T04:06:38Z",
+        "pushed_at": "2025-11-05T04:06:34Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "remote_only"
+    }
+  ],
+  "both": [
+    {
+      "name": "portfolio",
+      "path": "/Users/dalerogers/Projects/portfolio",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": {
+        "name": "portfolio",
+        "full_name": "Duds/portfolio",
+        "description": null,
+        "html_url": "https://github.com/Duds/portfolio",
+        "clone_url": "https://github.com/Duds/portfolio.git",
+        "ssh_url": "git@github.com:Duds/portfolio.git",
+        "language": "MDX",
+        "size": 27825,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-07-10T00:15:43Z",
+        "updated_at": "2025-07-10T07:13:00Z",
+        "pushed_at": "2025-07-10T07:12:57Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "both"
+    }
+  ],
+  "analysis": [
+    {
+      "name": "cursor_rules_library",
+      "path": "/Users/dalerogers/Projects/cursor_rules_library",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive README (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "learning",
+      "path": "/Users/dalerogers/Projects/learning",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "portfolio",
+      "path": "/Users/dalerogers/Projects/portfolio",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": {
+        "name": "portfolio",
+        "full_name": "Duds/portfolio",
+        "description": null,
+        "html_url": "https://github.com/Duds/portfolio",
+        "clone_url": "https://github.com/Duds/portfolio.git",
+        "ssh_url": "git@github.com:Duds/portfolio.git",
+        "language": "MDX",
+        "size": 27825,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-07-10T00:15:43Z",
+        "updated_at": "2025-07-10T07:13:00Z",
+        "pushed_at": "2025-07-10T07:12:57Z",
+        "archived": false,
+        "disabled": false,
+        "fork": false,
+        "private": false,
+        "default_branch": "main",
+        "topics": [],
+        "visibility": "public",
+        "has_wiki": true,
+        "has_pages": false,
+        "has_downloads": true,
+        "has_issues": true
+      },
+      "status": "both"
+    },
+    {
+      "name": "templates",
+      "path": "/Users/dalerogers/Projects/templates",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "active",
+      "path": "/Users/dalerogers/Projects/active",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    },
+    {
+      "name": "archived",
+      "path": "/Users/dalerogers/Projects/archived",
+      "git_info": {
+        "is_git_repo": false,
+        "last_commit": null,
+        "remote_url": null,
+        "branch": null,
+        "has_uncommitted": false
+      },
+      "tech_stack": {
+        "primary_language": null,
+        "framework": null,
+        "build_tools": [],
+        "package_manager": null,
+        "categories": [
+          "Experiments"
+        ],
+        "found_files": []
+      },
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "github_repo": null,
+      "status": "local_only"
+    }
+  ]
+}

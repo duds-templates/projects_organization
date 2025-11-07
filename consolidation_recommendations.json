@@ -1,0 +1,1136 @@
+{
+  "generated_at": "2025-11-07T11:34:48.061114",
+  "duplicates_and_overlaps": [
+    {
+      "project1": "portfolio",
+      "project2": "portfolio-v3",
+      "similarity": 85.7,
+      "type": "name_similarity",
+      "project1_data": {
+        "name": "portfolio",
+        "path": "/Users/dalerogers/Projects/portfolio",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 2.0,
+          "level": "Experimental",
+          "details": [
+            "Has comprehensive test suite (2 pts)"
+          ],
+          "raw_score": 2,
+          "max_score": 10
+        },
+        "github_repo": {
+          "name": "portfolio",
+          "full_name": "Duds/portfolio",
+          "description": null,
+          "html_url": "https://github.com/Duds/portfolio",
+          "clone_url": "https://github.com/Duds/portfolio.git",
+          "ssh_url": "git@github.com:Duds/portfolio.git",
+          "language": "MDX",
+          "size": 27825,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-07-10T00:15:43Z",
+          "updated_at": "2025-07-10T07:13:00Z",
+          "pushed_at": "2025-07-10T07:12:57Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "both"
+      },
+      "project2_data": {
+        "name": "portfolio-v3",
+        "github_repo": {
+          "name": "portfolio-v3",
+          "full_name": "Duds/portfolio-v3",
+          "description": null,
+          "html_url": "https://github.com/Duds/portfolio-v3",
+          "clone_url": "https://github.com/Duds/portfolio-v3.git",
+          "ssh_url": "git@github.com:Duds/portfolio-v3.git",
+          "language": "CSS",
+          "size": 430,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-10-14T05:34:53Z",
+          "updated_at": "2025-10-17T00:26:09Z",
+          "pushed_at": "2025-10-17T00:26:06Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "project1": "active",
+      "project2": "archived",
+      "similarity": 71.4,
+      "type": "name_similarity",
+      "project1_data": {
+        "name": "active",
+        "path": "/Users/dalerogers/Projects/active",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 2.0,
+          "level": "Experimental",
+          "details": [
+            "Has comprehensive test suite (2 pts)"
+          ],
+          "raw_score": 2,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      },
+      "project2_data": {
+        "name": "archived",
+        "path": "/Users/dalerogers/Projects/archived",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 0.0,
+          "level": "Archived",
+          "details": [],
+          "raw_score": 0,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "project1": "BidWriter",
+      "project2": "BidWriter_MVP",
+      "similarity": 81.8,
+      "type": "name_similarity",
+      "project1_data": {
+        "name": "BidWriter",
+        "github_repo": {
+          "name": "BidWriter",
+          "full_name": "Duds/BidWriter",
+          "description": null,
+          "html_url": "https://github.com/Duds/BidWriter",
+          "clone_url": "https://github.com/Duds/BidWriter.git",
+          "ssh_url": "git@github.com:Duds/BidWriter.git",
+          "language": "TypeScript",
+          "size": 168,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2023-10-27T23:09:30Z",
+          "updated_at": "2025-04-06T05:52:27Z",
+          "pushed_at": "2025-04-06T05:52:23Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      },
+      "project2_data": {
+        "name": "BidWriter_MVP",
+        "github_repo": {
+          "name": "BidWriter_MVP",
+          "full_name": "Duds/BidWriter_MVP",
+          "description": null,
+          "html_url": "https://github.com/Duds/BidWriter_MVP",
+          "clone_url": "https://github.com/Duds/BidWriter_MVP.git",
+          "ssh_url": "git@github.com:Duds/BidWriter_MVP.git",
+          "language": "TypeScript",
+          "size": 427,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-04-14T06:03:40Z",
+          "updated_at": "2025-04-14T06:04:08Z",
+          "pushed_at": "2025-04-19T06:36:34Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "type": "portfolio_group",
+      "projects": [
+        "portfolio",
+        "dale-rogers-portfolio",
+        "portfolio-v3"
+      ],
+      "count": 3,
+      "details": [
+        {
+          "name": "portfolio",
+          "path": "/Users/dalerogers/Projects/portfolio",
+          "git_info": {
+            "is_git_repo": false,
+            "last_commit": null,
+            "remote_url": null,
+            "branch": null,
+            "has_uncommitted": false
+          },
+          "tech_stack": {
+            "primary_language": null,
+            "framework": null,
+            "build_tools": [],
+            "package_manager": null,
+            "categories": [
+              "Experiments"
+            ],
+            "found_files": []
+          },
+          "maturity": {
+            "score": 2.0,
+            "level": "Experimental",
+            "details": [
+              "Has comprehensive test suite (2 pts)"
+            ],
+            "raw_score": 2,
+            "max_score": 10
+          },
+          "github_repo": {
+            "name": "portfolio",
+            "full_name": "Duds/portfolio",
+            "description": null,
+            "html_url": "https://github.com/Duds/portfolio",
+            "clone_url": "https://github.com/Duds/portfolio.git",
+            "ssh_url": "git@github.com:Duds/portfolio.git",
+            "language": "MDX",
+            "size": 27825,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "forks_count": 0,
+            "open_issues_count": 0,
+            "created_at": "2025-07-10T00:15:43Z",
+            "updated_at": "2025-07-10T07:13:00Z",
+            "pushed_at": "2025-07-10T07:12:57Z",
+            "archived": false,
+            "disabled": false,
+            "fork": false,
+            "private": false,
+            "default_branch": "main",
+            "topics": [],
+            "visibility": "public",
+            "has_wiki": true,
+            "has_pages": false,
+            "has_downloads": true,
+            "has_issues": true
+          },
+          "status": "both"
+        },
+        {
+          "name": "dale-rogers-portfolio",
+          "github_repo": {
+            "name": "dale-rogers-portfolio",
+            "full_name": "Duds/dale-rogers-portfolio",
+            "description": null,
+            "html_url": "https://github.com/Duds/dale-rogers-portfolio",
+            "clone_url": "https://github.com/Duds/dale-rogers-portfolio.git",
+            "ssh_url": "git@github.com:Duds/dale-rogers-portfolio.git",
+            "language": "JavaScript",
+            "size": 93382,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "forks_count": 0,
+            "open_issues_count": 0,
+            "created_at": "2025-04-12T05:17:45Z",
+            "updated_at": "2025-10-03T20:18:16Z",
+            "pushed_at": "2025-10-12T02:44:30Z",
+            "archived": false,
+            "disabled": false,
+            "fork": false,
+            "private": false,
+            "default_branch": "develop",
+            "topics": [],
+            "visibility": "public",
+            "has_wiki": true,
+            "has_pages": false,
+            "has_downloads": true,
+            "has_issues": true
+          },
+          "status": "remote_only"
+        },
+        {
+          "name": "portfolio-v3",
+          "github_repo": {
+            "name": "portfolio-v3",
+            "full_name": "Duds/portfolio-v3",
+            "description": null,
+            "html_url": "https://github.com/Duds/portfolio-v3",
+            "clone_url": "https://github.com/Duds/portfolio-v3.git",
+            "ssh_url": "git@github.com:Duds/portfolio-v3.git",
+            "language": "CSS",
+            "size": 430,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "forks_count": 0,
+            "open_issues_count": 0,
+            "created_at": "2025-10-14T05:34:53Z",
+            "updated_at": "2025-10-17T00:26:09Z",
+            "pushed_at": "2025-10-17T00:26:06Z",
+            "archived": false,
+            "disabled": false,
+            "fork": false,
+            "private": false,
+            "default_branch": "main",
+            "topics": [],
+            "visibility": "public",
+            "has_wiki": true,
+            "has_pages": false,
+            "has_downloads": true,
+            "has_issues": true
+          },
+          "status": "remote_only"
+        }
+      ]
+    },
+    {
+      "type": "bidwriter_group",
+      "projects": [
+        "BidWriter",
+        "BidWriter_MVP"
+      ],
+      "count": 2,
+      "details": [
+        {
+          "name": "BidWriter",
+          "github_repo": {
+            "name": "BidWriter",
+            "full_name": "Duds/BidWriter",
+            "description": null,
+            "html_url": "https://github.com/Duds/BidWriter",
+            "clone_url": "https://github.com/Duds/BidWriter.git",
+            "ssh_url": "git@github.com:Duds/BidWriter.git",
+            "language": "TypeScript",
+            "size": 168,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "forks_count": 0,
+            "open_issues_count": 0,
+            "created_at": "2023-10-27T23:09:30Z",
+            "updated_at": "2025-04-06T05:52:27Z",
+            "pushed_at": "2025-04-06T05:52:23Z",
+            "archived": false,
+            "disabled": false,
+            "fork": false,
+            "private": false,
+            "default_branch": "main",
+            "topics": [],
+            "visibility": "public",
+            "has_wiki": true,
+            "has_pages": false,
+            "has_downloads": true,
+            "has_issues": true
+          },
+          "status": "remote_only"
+        },
+        {
+          "name": "BidWriter_MVP",
+          "github_repo": {
+            "name": "BidWriter_MVP",
+            "full_name": "Duds/BidWriter_MVP",
+            "description": null,
+            "html_url": "https://github.com/Duds/BidWriter_MVP",
+            "clone_url": "https://github.com/Duds/BidWriter_MVP.git",
+            "ssh_url": "git@github.com:Duds/BidWriter_MVP.git",
+            "language": "TypeScript",
+            "size": 427,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "forks_count": 0,
+            "open_issues_count": 0,
+            "created_at": "2025-04-14T06:03:40Z",
+            "updated_at": "2025-04-14T06:04:08Z",
+            "pushed_at": "2025-04-19T06:36:34Z",
+            "archived": false,
+            "disabled": false,
+            "fork": false,
+            "private": false,
+            "default_branch": "main",
+            "topics": [],
+            "visibility": "public",
+            "has_wiki": true,
+            "has_pages": false,
+            "has_downloads": true,
+            "has_issues": true
+          },
+          "status": "remote_only"
+        }
+      ]
+    }
+  ],
+  "archive_candidates": [
+    {
+      "name": "Circa-3D-Printer",
+      "reasons": [
+        "Fork (may not need local copy)",
+        "No activity in 6 years"
+      ],
+      "priority": 2,
+      "remote_only": true,
+      "project_data": {
+        "name": "Circa-3D-Printer",
+        "github_repo": {
+          "name": "Circa-3D-Printer",
+          "full_name": "Duds/Circa-3D-Printer",
+          "description": "The Circa 3D Printer is an open source Polar 3D printer designed by and for artists, designers and engineers",
+          "html_url": "https://github.com/Duds/Circa-3D-Printer",
+          "clone_url": "https://github.com/Duds/Circa-3D-Printer.git",
+          "ssh_url": "git@github.com:Duds/Circa-3D-Printer.git",
+          "language": null,
+          "size": 140169,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-11-03T04:35:46Z",
+          "updated_at": "2025-11-03T04:35:46Z",
+          "pushed_at": "2019-03-14T14:07:25Z",
+          "archived": false,
+          "disabled": false,
+          "fork": true,
+          "private": false,
+          "default_branch": "master",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": false
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "CriticalView360",
+      "reasons": [
+        "No activity in 2 years"
+      ],
+      "priority": 2,
+      "remote_only": true,
+      "project_data": {
+        "name": "CriticalView360",
+        "github_repo": {
+          "name": "CriticalView360",
+          "full_name": "Duds/CriticalView360",
+          "description": "CriticalView360 revolutionizes risk management in high-risk industries, providing an intuitive web application for managing critical control plans. With AI-powered modules and visualizations, it simplifies risk assessment and enhances safety.",
+          "html_url": "https://github.com/Duds/CriticalView360",
+          "clone_url": "https://github.com/Duds/CriticalView360.git",
+          "ssh_url": "git@github.com:Duds/CriticalView360.git",
+          "language": "JavaScript",
+          "size": 25057,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2023-05-13T03:42:36Z",
+          "updated_at": "2023-05-13T06:57:30Z",
+          "pushed_at": "2023-09-03T05:11:47Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "OI-Piranha",
+      "reasons": [
+        "No activity in 8 years"
+      ],
+      "priority": 2,
+      "remote_only": true,
+      "project_data": {
+        "name": "OI-Piranha",
+        "github_repo": {
+          "name": "OI-Piranha",
+          "full_name": "Duds/OI-Piranha",
+          "description": "Open Inspired Piranha, an open source quadcopter design.",
+          "html_url": "https://github.com/Duds/OI-Piranha",
+          "clone_url": "https://github.com/Duds/OI-Piranha.git",
+          "ssh_url": "git@github.com:Duds/OI-Piranha.git",
+          "language": null,
+          "size": 103479,
+          "stargazers_count": 5,
+          "watchers_count": 5,
+          "forks_count": 4,
+          "open_issues_count": 1,
+          "created_at": "2016-09-23T11:06:17Z",
+          "updated_at": "2022-02-24T15:02:51Z",
+          "pushed_at": "2016-11-09T10:43:14Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "master",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "archived",
+      "reasons": [
+        "Maturity level is 'Archived' (score: 0.0)",
+        "Not a git repository",
+        "No README or minimal documentation"
+      ],
+      "priority": 2,
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "archived",
+        "path": "/Users/dalerogers/Projects/archived",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 0.0,
+          "level": "Archived",
+          "details": [],
+          "raw_score": 0,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "name": "learning",
+      "reasons": [
+        "Maturity level is 'Archived' (score: 0.0)",
+        "Not a git repository",
+        "No README or minimal documentation"
+      ],
+      "priority": 2,
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "learning",
+        "path": "/Users/dalerogers/Projects/learning",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 0.0,
+          "level": "Archived",
+          "details": [],
+          "raw_score": 0,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "name": "templates",
+      "reasons": [
+        "Maturity level is 'Archived' (score: 0.0)",
+        "Not a git repository",
+        "No README or minimal documentation"
+      ],
+      "priority": 2,
+      "maturity": {
+        "score": 0.0,
+        "level": "Archived",
+        "details": [],
+        "raw_score": 0,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "templates",
+        "path": "/Users/dalerogers/Projects/templates",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 0.0,
+          "level": "Archived",
+          "details": [],
+          "raw_score": 0,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "name": "GoogleDocsScripts",
+      "reasons": [
+        "Very small repository"
+      ],
+      "priority": 1,
+      "remote_only": true,
+      "project_data": {
+        "name": "GoogleDocsScripts",
+        "github_repo": {
+          "name": "GoogleDocsScripts",
+          "full_name": "Duds/GoogleDocsScripts",
+          "description": "A repository for maintaining google docs scripts",
+          "html_url": "https://github.com/Duds/GoogleDocsScripts",
+          "clone_url": "https://github.com/Duds/GoogleDocsScripts.git",
+          "ssh_url": "git@github.com:Duds/GoogleDocsScripts.git",
+          "language": null,
+          "size": 1,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2023-12-22T00:03:53Z",
+          "updated_at": "2023-12-22T00:03:53Z",
+          "pushed_at": "2023-12-22T00:03:53Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "active",
+      "reasons": [
+        "Not a git repository",
+        "No README or minimal documentation"
+      ],
+      "priority": 1,
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "active",
+        "path": "/Users/dalerogers/Projects/active",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 2.0,
+          "level": "Experimental",
+          "details": [
+            "Has comprehensive test suite (2 pts)"
+          ],
+          "raw_score": 2,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "name": "beanheads",
+      "reasons": [
+        "Fork (may not need local copy)"
+      ],
+      "priority": 1,
+      "remote_only": true,
+      "project_data": {
+        "name": "beanheads",
+        "github_repo": {
+          "name": "beanheads",
+          "full_name": "Duds/beanheads",
+          "description": "Easily create characters for your projects",
+          "html_url": "https://github.com/Duds/beanheads",
+          "clone_url": "https://github.com/Duds/beanheads.git",
+          "ssh_url": "git@github.com:Duds/beanheads.git",
+          "language": null,
+          "size": 3902,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-04-17T01:24:25Z",
+          "updated_at": "2025-04-17T01:24:25Z",
+          "pushed_at": "2024-06-20T22:45:16Z",
+          "archived": false,
+          "disabled": false,
+          "fork": true,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": false
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "blender-mcp",
+      "reasons": [
+        "Fork (may not need local copy)"
+      ],
+      "priority": 1,
+      "remote_only": true,
+      "project_data": {
+        "name": "blender-mcp",
+        "github_repo": {
+          "name": "blender-mcp",
+          "full_name": "Duds/blender-mcp",
+          "description": null,
+          "html_url": "https://github.com/Duds/blender-mcp",
+          "clone_url": "https://github.com/Duds/blender-mcp.git",
+          "ssh_url": "git@github.com:Duds/blender-mcp.git",
+          "language": null,
+          "size": 547,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-11-03T23:45:58Z",
+          "updated_at": "2025-11-03T23:46:14Z",
+          "pushed_at": "2025-10-20T11:26:25Z",
+          "archived": false,
+          "disabled": false,
+          "fork": true,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": false
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "blinko",
+      "reasons": [
+        "Fork (may not need local copy)"
+      ],
+      "priority": 1,
+      "remote_only": true,
+      "project_data": {
+        "name": "blinko",
+        "github_repo": {
+          "name": "blinko",
+          "full_name": "Duds/blinko",
+          "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+          "html_url": "https://github.com/Duds/blinko",
+          "clone_url": "https://github.com/Duds/blinko.git",
+          "ssh_url": "git@github.com:Duds/blinko.git",
+          "language": null,
+          "size": 14492,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-04-16T06:10:51Z",
+          "updated_at": "2025-05-04T10:10:57Z",
+          "pushed_at": "2025-04-14T05:33:59Z",
+          "archived": false,
+          "disabled": false,
+          "fork": true,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": false,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": false
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "cursor_rules_library",
+      "reasons": [
+        "Not a git repository"
+      ],
+      "priority": 1,
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive README (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "cursor_rules_library",
+        "path": "/Users/dalerogers/Projects/cursor_rules_library",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 2.0,
+          "level": "Experimental",
+          "details": [
+            "Has comprehensive README (2 pts)"
+          ],
+          "raw_score": 2,
+          "max_score": 10
+        },
+        "github_repo": null,
+        "status": "local_only"
+      }
+    },
+    {
+      "name": "llama-index-javascript",
+      "reasons": [
+        "Fork (may not need local copy)"
+      ],
+      "priority": 1,
+      "remote_only": true,
+      "project_data": {
+        "name": "llama-index-javascript",
+        "github_repo": {
+          "name": "llama-index-javascript",
+          "full_name": "Duds/llama-index-javascript",
+          "description": "This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀",
+          "html_url": "https://github.com/Duds/llama-index-javascript",
+          "clone_url": "https://github.com/Duds/llama-index-javascript.git",
+          "ssh_url": "git@github.com:Duds/llama-index-javascript.git",
+          "language": null,
+          "size": 3940,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-04-08T00:00:15Z",
+          "updated_at": "2025-04-08T00:00:16Z",
+          "pushed_at": "2025-03-21T17:21:43Z",
+          "archived": false,
+          "disabled": false,
+          "fork": true,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": false,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": false
+        },
+        "status": "remote_only"
+      }
+    },
+    {
+      "name": "portfolio",
+      "reasons": [
+        "Not a git repository",
+        "No README or minimal documentation"
+      ],
+      "priority": 1,
+      "maturity": {
+        "score": 2.0,
+        "level": "Experimental",
+        "details": [
+          "Has comprehensive test suite (2 pts)"
+        ],
+        "raw_score": 2,
+        "max_score": 10
+      },
+      "project_data": {
+        "name": "portfolio",
+        "path": "/Users/dalerogers/Projects/portfolio",
+        "git_info": {
+          "is_git_repo": false,
+          "last_commit": null,
+          "remote_url": null,
+          "branch": null,
+          "has_uncommitted": false
+        },
+        "tech_stack": {
+          "primary_language": null,
+          "framework": null,
+          "build_tools": [],
+          "package_manager": null,
+          "categories": [
+            "Experiments"
+          ],
+          "found_files": []
+        },
+        "maturity": {
+          "score": 2.0,
+          "level": "Experimental",
+          "details": [
+            "Has comprehensive test suite (2 pts)"
+          ],
+          "raw_score": 2,
+          "max_score": 10
+        },
+        "github_repo": {
+          "name": "portfolio",
+          "full_name": "Duds/portfolio",
+          "description": null,
+          "html_url": "https://github.com/Duds/portfolio",
+          "clone_url": "https://github.com/Duds/portfolio.git",
+          "ssh_url": "git@github.com:Duds/portfolio.git",
+          "language": "MDX",
+          "size": 27825,
+          "stargazers_count": 0,
+          "watchers_count": 0,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "created_at": "2025-07-10T00:15:43Z",
+          "updated_at": "2025-07-10T07:13:00Z",
+          "pushed_at": "2025-07-10T07:12:57Z",
+          "archived": false,
+          "disabled": false,
+          "fork": false,
+          "private": false,
+          "default_branch": "main",
+          "topics": [],
+          "visibility": "public",
+          "has_wiki": true,
+          "has_pages": false,
+          "has_downloads": true,
+          "has_issues": true
+        },
+        "status": "both"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "consolidation",
+      "title": "Consolidate Portfolio Projects",
+      "projects": [
+        "portfolio",
+        "dale-rogers-portfolio",
+        "portfolio-v3"
+      ],
+      "action": "combine",
+      "recommendation": "\nYou have 3 portfolio projects:\n- dale-rogers-portfolio (Astro, most mature: 7.5/10)\n- portfolio-v3 (HTML/CSS/JS, moderate: 6.5/10)\n- portfolio (MDX, remote only)\n\nRECOMMENDATION:\n1. Keep 'dale-rogers-portfolio' as your main portfolio (it's the most mature)\n2. Migrate any unique content from 'portfolio-v3' and 'portfolio' to 'dale-rogers-portfolio'\n3. Archive 'portfolio-v3' and 'portfolio' after migration\n",
+      "priority": "HIGH"
+    },
+    {
+      "category": "consolidation",
+      "title": "Consolidate BidWriter Projects",
+      "projects": [
+        "BidWriter",
+        "BidWriter_MVP"
+      ],
+      "action": "combine",
+      "recommendation": "\nYou have 2 BidWriter projects:\n- BidWriter (168 KB, created Oct 2023, TypeScript)\n- BidWriter_MVP (427 KB, created Apr 2025, TypeScript)\n\nRECOMMENDATION:\n1. Review if BidWriter_MVP supersedes BidWriter\n2. If yes, archive BidWriter and rename BidWriter_MVP to just 'bidwriter'\n3. If both have unique value, clarify their purposes in READMEs\n",
+      "priority": "MEDIUM"
+    },
+    {
+      "category": "archive",
+      "title": "High Priority Archive Candidates",
+      "projects": [
+        "Circa-3D-Printer",
+        "CriticalView360",
+        "OI-Piranha",
+        "archived",
+        "learning",
+        "templates"
+      ],
+      "action": "archive",
+      "recommendation": "\n6 projects are strong candidates for archiving:\n\n• Circa-3D-Printer: Fork (may not need local copy), No activity in 6 years\n• CriticalView360: No activity in 2 years\n• OI-Piranha: No activity in 8 years\n• archived: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation\n• learning: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation\n• templates: Maturity level is 'Archived' (score: 0.0), Not a git repository, No README or minimal documentation",
+      "priority": "HIGH"
+    },
+    {
+      "category": "cleanup",
+      "title": "Fork Cleanup",
+      "projects": [
+        "Circa-3D-Printer",
+        "beanheads",
+        "blender-mcp",
+        "blinko",
+        "llama-index-javascript"
+      ],
+      "action": "review",
+      "recommendation": "\n5 forked projects may not need local copies:\n\n• Circa-3D-Printer\n• beanheads\n• blender-mcp\n• blinko\n• llama-index-javascript\n\nRECOMMENDATION:\nReview each fork to determine if you've made modifications.\nIf no modifications, consider removing local copy and just keep GitHub fork.\n",
+      "priority": "LOW"
+    }
+  ]
+}

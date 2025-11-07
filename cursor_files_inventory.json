@@ -1,0 +1,1005 @@
+[
+  {
+    "project": "aegrid",
+    "path": "/Users/dalerogers/Projects/active/production/aegrid",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "github-workflow.mdc",
+        "relative_path": "rules/github-workflow.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/github-workflow.mdc",
+        "size": 1233,
+        "hash": "fdd83b3322f3ce57d210bd5f642be545",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "mandatory-crosslinks.md",
+        "relative_path": "rules/mandatory-crosslinks.md",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/mandatory-crosslinks.md",
+        "size": 993,
+        "hash": "4d69ce84f99ea1d6ff8f8d03c3a36e1d",
+        "extension": ".md"
+      },
+      {
+        "filename": "mandatory.mdc",
+        "relative_path": "rules/mandatory.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/mandatory.mdc",
+        "size": 16202,
+        "hash": "604f9fa0be6b5724f955ead5f903b8d5",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "update-docs.mdc",
+        "relative_path": "rules/update-docs.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/update-docs.mdc",
+        "size": 10128,
+        "hash": "c74e31c0fbe32bd2da30bcb3b2c28f45",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "documentation.mdc",
+        "relative_path": "rules/documentation.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/documentation.mdc",
+        "size": 1090,
+        "hash": "3ca9366548ffb94d7b0b63de3a2dc5be",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "aegrid-rules.mdc",
+        "relative_path": "rules/aegrid-rules.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/aegrid-rules.mdc",
+        "size": 10674,
+        "hash": "34514d49240a7cb680c217d8ef0d516f",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "authentication-security.mdc",
+        "relative_path": "rules/authentication-security.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/authentication-security.mdc",
+        "size": 4134,
+        "hash": "71a02b24906bfad969e57dea3173bbbb",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "rules.mdc",
+        "relative_path": "rules/rules.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/rules.mdc",
+        "size": 3267,
+        "hash": "766c63a4b3dc308aa8dcdac467db958d",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "development-standards.mdc",
+        "relative_path": "rules/development-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/development-standards.mdc",
+        "size": 3068,
+        "hash": "17017bbe836bb26bf694271427dd7b15",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "todo-standards.mdc",
+        "relative_path": "rules/todo-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/todo-standards.mdc",
+        "size": 8693,
+        "hash": "efbd53ecfe95b086ef329691ccce9524",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "popover-modal-standards.mdc",
+        "relative_path": "rules/popover-modal-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/popover-modal-standards.mdc",
+        "size": 8241,
+        "hash": "d67e0aaa3a61c883e684eee8e546012f",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "pi-standards.mdc",
+        "relative_path": "rules/pi-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/pi-standards.mdc",
+        "size": 8979,
+        "hash": "b98214bea95718deb93b6822db2db244",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "testing-standards.mdc",
+        "relative_path": "rules/testing-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/testing-standards.mdc",
+        "size": 28567,
+        "hash": "34d68097856be4dfb534f8c1b1975926",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "troubleshooting.mdc",
+        "relative_path": "rules/troubleshooting.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/troubleshooting.mdc",
+        "size": 10958,
+        "hash": "134d1d88f215adfcc15f13fca35330a0",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "database-operations.mdc",
+        "relative_path": "rules/database-operations.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/rules/database-operations.mdc",
+        "size": 3639,
+        "hash": "442e1f6cfc64ffb929f7e1a29373a2bb",
+        "extension": ".mdc"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "dashboards.md",
+        "relative_path": "commands/dashboards.md",
+        "full_path": "/Users/dalerogers/Projects/active/production/aegrid/.cursor/commands/dashboards.md",
+        "size": 0,
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "extension": ".md"
+      }
+    ]
+  },
+  {
+    "project": "procedural_design_scratch",
+    "path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "python-code.md",
+        "relative_path": "rules/python-code.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/rules/python-code.md",
+        "size": 5616,
+        "hash": "bc162668fc4383b3386e9bdf2a2f44fa",
+        "extension": ".md"
+      },
+      {
+        "filename": "procedural-design.md",
+        "relative_path": "rules/procedural-design.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/rules/procedural-design.md",
+        "size": 4452,
+        "hash": "9ddbf7a4fc3960768aa5ba8dd6e21277",
+        "extension": ".md"
+      },
+      {
+        "filename": "project-structure.md",
+        "relative_path": "rules/project-structure.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/rules/project-structure.md",
+        "size": 2278,
+        "hash": "7691ec03202f1feb479fe6e2f91d732f",
+        "extension": ".md"
+      },
+      {
+        "filename": "jupyter-notebooks.md",
+        "relative_path": "rules/jupyter-notebooks.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/rules/jupyter-notebooks.md",
+        "size": 3773,
+        "hash": "f47680bdbf3a0ba09a523d29427ccc9a",
+        "extension": ".md"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "test-all.sh",
+        "relative_path": "commands/test-all.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/test-all.sh",
+        "size": 450,
+        "hash": "97ca60ce554cabc42f2c82f09b15ca92",
+        "extension": ".sh"
+      },
+      {
+        "filename": "new-experiment.sh",
+        "relative_path": "commands/new-experiment.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/new-experiment.sh",
+        "size": 4351,
+        "hash": "ab38c6305ec68df5866087430ca4c101",
+        "extension": ".sh"
+      },
+      {
+        "filename": "archive-experiment.sh",
+        "relative_path": "commands/archive-experiment.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/archive-experiment.sh",
+        "size": 1088,
+        "hash": "31bc640df06751b47ff4d66fd9022766",
+        "extension": ".sh"
+      },
+      {
+        "filename": "run-experiment.sh",
+        "relative_path": "commands/run-experiment.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/run-experiment.sh",
+        "size": 1195,
+        "hash": "4f4e7ff14330412149db4bd13df9c4db",
+        "extension": ".sh"
+      },
+      {
+        "filename": "validate-mesh.sh",
+        "relative_path": "commands/validate-mesh.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/validate-mesh.sh",
+        "size": 3449,
+        "hash": "b3db8f4d7d1b8a67c9da7e704bc00147",
+        "extension": ".sh"
+      },
+      {
+        "filename": "setup-dev.sh",
+        "relative_path": "commands/setup-dev.sh",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/procedural_design_scratch/.cursor/commands/setup-dev.sh",
+        "size": 1731,
+        "hash": "7707a669fb4defe950f2609b90efc49d",
+        "extension": ".sh"
+      }
+    ]
+  },
+  {
+    "project": "my_nab",
+    "path": "/Users/dalerogers/Projects/active/experimental/my_nab",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "guardrails.md",
+        "relative_path": "rules/guardrails.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/guardrails.md",
+        "size": 354,
+        "hash": "6ab1894e842be99722da6bbaf8dd6a0a",
+        "extension": ".md"
+      },
+      {
+        "filename": "testing.md",
+        "relative_path": "rules/testing.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/testing.md",
+        "size": 246,
+        "hash": "5a5868d3d41148afbda9c155a33dcabe",
+        "extension": ".md"
+      },
+      {
+        "filename": "tailwind-v4.mdc",
+        "relative_path": "rules/tailwind-v4.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/tailwind-v4.mdc",
+        "size": 2947,
+        "hash": "0961602be4bae4f6fb76e775a1343749",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "style.md",
+        "relative_path": "rules/style.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/style.md",
+        "size": 333,
+        "hash": "34afcf0965be41baa99d54da3b75b2a8",
+        "extension": ".md"
+      },
+      {
+        "filename": "docs.md",
+        "relative_path": "rules/docs.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/docs.md",
+        "size": 189,
+        "hash": "40ec02164c46735ba657c8b019b4efd6",
+        "extension": ".md"
+      },
+      {
+        "filename": "security.md",
+        "relative_path": "rules/security.md",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/my_nab/.cursor/rules/security.md",
+        "size": 189,
+        "hash": "3c74d83e76bebeafba89736a51be31fd",
+        "extension": ".md"
+      }
+    ],
+    "commands": []
+  },
+  {
+    "project": "capopt_platform",
+    "path": "/Users/dalerogers/Projects/active/experimental/capopt_platform",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "frontend-standards.mdc",
+        "relative_path": "rules/frontend-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/frontend-standards.mdc",
+        "size": 15613,
+        "hash": "e29a5e1f4128a4fdb63bd00fd6f3abd5",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "documentation-standards.mdc",
+        "relative_path": "rules/documentation-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/documentation-standards.mdc",
+        "size": 5919,
+        "hash": "c30f3aa28123cbc7ac4a904b4ba246b6",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "backend-standards.mdc",
+        "relative_path": "rules/backend-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/backend-standards.mdc",
+        "size": 4872,
+        "hash": "f83dc50a8695a97b56b1b38ce71a67b0",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "phase-prioritisation.mdc",
+        "relative_path": "rules/phase-prioritisation.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/phase-prioritisation.mdc",
+        "size": 7483,
+        "hash": "5670596ac88d77b1787174bc4d7c13d0",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "seed-management.mdc",
+        "relative_path": "rules/seed-management.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/seed-management.mdc",
+        "size": 12153,
+        "hash": "95997b6b9b60bd090b9818388ab414da",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "design-documentation.mdc",
+        "relative_path": "rules/design-documentation.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/design-documentation.mdc",
+        "size": 2177,
+        "hash": "5465f9108d8dc01949f86d7cc1ef4e49",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "project-overview.mdc",
+        "relative_path": "rules/project-overview.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/project-overview.mdc",
+        "size": 1932,
+        "hash": "15739e00ed58741d711c7748ee36cec8",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "ai-aware-testing.mdc",
+        "relative_path": "rules/ai-aware-testing.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/ai-aware-testing.mdc",
+        "size": 11598,
+        "hash": "b82202224408a8569ccbe529c23dd5fe",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "testing-standards.mdc",
+        "relative_path": "rules/testing-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/testing-standards.mdc",
+        "size": 19183,
+        "hash": "97bde07c8429a0ddc4bf2aefeadfba48",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "implementation-status.mdc",
+        "relative_path": "rules/implementation-status.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/implementation-status.mdc",
+        "size": 10099,
+        "hash": "db8aaedde4acd7f7d796b0a0233858f0",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "security-standards.mdc",
+        "relative_path": "rules/security-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/security-standards.mdc",
+        "size": 7299,
+        "hash": "1441ec2fcaeb86b05dfa165051bc1c14",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "testing-infrastructure.mdc",
+        "relative_path": "rules/testing-infrastructure.mdc",
+        "full_path": "/Users/dalerogers/Projects/active/experimental/capopt_platform/.cursor/rules/testing-infrastructure.mdc",
+        "size": 17320,
+        "hash": "dbd3ba0121a52a646658ca94549c1d11",
+        "extension": ".mdc"
+      }
+    ],
+    "commands": []
+  },
+  {
+    "project": "portfolio",
+    "path": "/Users/dalerogers/Projects/portfolio/portfolio",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "content.mdc",
+        "relative_path": "rules/content.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/content.mdc",
+        "size": 1278,
+        "hash": "95a811db5236b0418f0ac6e2a74c373a",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "test_driven_development.mdc",
+        "relative_path": "rules/test_driven_development.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/test_driven_development.mdc",
+        "size": 10660,
+        "hash": "bdc60752019d01a45dabfc625179341c",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "tailwind.mdc",
+        "relative_path": "rules/tailwind.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/tailwind.mdc",
+        "size": 2345,
+        "hash": "c19aff0b8e93f94140aa011d9f1b2b5f",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "scripts.mdc",
+        "relative_path": "rules/scripts.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/scripts.mdc",
+        "size": 3432,
+        "hash": "cea73141d49c67eb068b4b66a94c4923",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "log_checking.mdc",
+        "relative_path": "rules/log_checking.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/log_checking.mdc",
+        "size": 2354,
+        "hash": "3eadc9df2da156249709cd42ea1409ab",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "plan-updates.mdc",
+        "relative_path": "rules/plan-updates.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/plan-updates.mdc",
+        "size": 2792,
+        "hash": "0a92390bf7cf256b3d86b9a0f1ae9dff",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "api_debugging.mdc",
+        "relative_path": "rules/api_debugging.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/api_debugging.mdc",
+        "size": 4887,
+        "hash": "c7631262db516839edcc603e018e5245",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "rule-acknowledgment.mdc",
+        "relative_path": "rules/rule-acknowledgment.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/rule-acknowledgment.mdc",
+        "size": 3044,
+        "hash": "067a28d17bbaf44e4a0543194c9276c1",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "git_commit.mdc",
+        "relative_path": "rules/git_commit.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/git_commit.mdc",
+        "size": 5235,
+        "hash": "4ff6eaf57cb8c4bbeda28abf32fc3920",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "memory-management.mdc",
+        "relative_path": "rules/memory-management.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/memory-management.mdc",
+        "size": 4679,
+        "hash": "c1300c30d7537d57ce4848f9336e85bf",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "problem-solving.mdc",
+        "relative_path": "rules/problem-solving.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/problem-solving.mdc",
+        "size": 7673,
+        "hash": "5c3f017fbfd0edc134085cd7b60eb0d8",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "astro.mdc",
+        "relative_path": "rules/astro.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/astro.mdc",
+        "size": 3357,
+        "hash": "3d8a7962e86e758feaa28d8124b493e5",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "layouts.mdc",
+        "relative_path": "rules/layouts.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/layouts.mdc",
+        "size": 903,
+        "hash": "ff11afdef1ad3b7fd83720e307bbb909",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "meta-rule-management.mdc",
+        "relative_path": "rules/meta-rule-management.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/meta-rule-management.mdc",
+        "size": 1933,
+        "hash": "80f48fbfa191ba3752f8c83fa10ee6df",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "cursor_rules_location.mdc",
+        "relative_path": "rules/cursor_rules_location.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/cursor_rules_location.mdc",
+        "size": 6161,
+        "hash": "a91c6b9aa83a7e13c5de2bf227057f03",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "rule-extraction.mdc",
+        "relative_path": "rules/rule-extraction.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/rule-extraction.mdc",
+        "size": 3226,
+        "hash": "81a4ade0723bcb820945a097ed143052",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "documentation-reference.mdc",
+        "relative_path": "rules/documentation-reference.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/documentation-reference.mdc",
+        "size": 2458,
+        "hash": "bf26206f567eb555231119478fd07403",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "auto-format.mdc",
+        "relative_path": "rules/auto-format.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/auto-format.mdc",
+        "size": 1493,
+        "hash": "a47e0d58c05f72339984e5b20176184b",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "view_components.mdc",
+        "relative_path": "rules/view_components.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio/.cursor/rules/view_components.mdc",
+        "size": 4709,
+        "hash": "2f8f92cea18529246abfc0c3e2be81b1",
+        "extension": ".mdc"
+      }
+    ],
+    "commands": []
+  },
+  {
+    "project": "portfolio_v3",
+    "path": "/Users/dalerogers/Projects/portfolio/portfolio_v3",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "technology-stack.mdc",
+        "relative_path": "rules/technology-stack.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/rules/technology-stack.mdc",
+        "size": 10563,
+        "hash": "a293e3f016ee42376f62f757d38dc239",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "documentation.mdc",
+        "relative_path": "rules/documentation.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/rules/documentation.mdc",
+        "size": 2737,
+        "hash": "9059a6d87f63bba516a77f5e673f2205",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "voice-and-tone.mdc",
+        "relative_path": "rules/voice-and-tone.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/rules/voice-and-tone.mdc",
+        "size": 11008,
+        "hash": "6e7738cc079367d276305172e53173e8",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "deployment.mdc",
+        "relative_path": "rules/deployment.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/rules/deployment.mdc",
+        "size": 12872,
+        "hash": "a004b165a7594c01c0540965f2c2e0c2",
+        "extension": ".mdc"
+      }
+    ],
+    "commands": [
+      {
+        "filename": "create-case-study.md",
+        "relative_path": "commands/create-case-study.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/create-case-study.md",
+        "size": 10437,
+        "hash": "8eb60b480e4cca86219b0bd701dda09e",
+        "extension": ".md"
+      },
+      {
+        "filename": "build-and-preview.md",
+        "relative_path": "commands/build-and-preview.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/build-and-preview.md",
+        "size": 7742,
+        "hash": "1a263eb063966dba28cbe63e1106c9d4",
+        "extension": ".md"
+      },
+      {
+        "filename": "visual-brand-design-audit.md",
+        "relative_path": "commands/visual-brand-design-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/visual-brand-design-audit.md",
+        "size": 20036,
+        "hash": "01d4225e7a14da42c65a2006526cbeb3",
+        "extension": ".md"
+      },
+      {
+        "filename": "setup-new-feature.md",
+        "relative_path": "commands/setup-new-feature.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/setup-new-feature.md",
+        "size": 1055,
+        "hash": "c90e85334f27a96587dcb0895e8423d2",
+        "extension": ".md"
+      },
+      {
+        "filename": "sync-documentation.md",
+        "relative_path": "commands/sync-documentation.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/sync-documentation.md",
+        "size": 6562,
+        "hash": "d0fa177aabee83c1d6dc5414144411b5",
+        "extension": ".md"
+      },
+      {
+        "filename": "accessibility-specialist-audit.md",
+        "relative_path": "commands/accessibility-specialist-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/accessibility-specialist-audit.md",
+        "size": 15129,
+        "hash": "3f5392b0242dbe466ac7fecee520803e",
+        "extension": ".md"
+      },
+      {
+        "filename": "audit-voice-and-tone.md",
+        "relative_path": "commands/audit-voice-and-tone.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/audit-voice-and-tone.md",
+        "size": 9520,
+        "hash": "0ee7a93bb15a45e80353212a5941903a",
+        "extension": ".md"
+      },
+      {
+        "filename": "deploy-to-staging.md",
+        "relative_path": "commands/deploy-to-staging.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/deploy-to-staging.md",
+        "size": 6372,
+        "hash": "bdbaee8d700a100b95b248748fd4cbb4",
+        "extension": ".md"
+      },
+      {
+        "filename": "cleanup-workspace.md",
+        "relative_path": "commands/cleanup-workspace.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/cleanup-workspace.md",
+        "size": 5068,
+        "hash": "17cfc05e4e01b10f8429cd594da85f83",
+        "extension": ".md"
+      },
+      {
+        "filename": "generate-documentation.md",
+        "relative_path": "commands/generate-documentation.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/generate-documentation.md",
+        "size": 6213,
+        "hash": "a00572bc392df18df3c55cd50a919cad",
+        "extension": ".md"
+      },
+      {
+        "filename": "code-review-checklist.md",
+        "relative_path": "commands/code-review-checklist.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/code-review-checklist.md",
+        "size": 1022,
+        "hash": "6c54b137c97e8108be2746e11d686aad",
+        "extension": ".md"
+      },
+      {
+        "filename": "security-audit.md",
+        "relative_path": "commands/security-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/security-audit.md",
+        "size": 32166,
+        "hash": "96c69ad29328e68f1dc34c00bd721d4a",
+        "extension": ".md"
+      },
+      {
+        "filename": "README.md",
+        "relative_path": "commands/README.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/README.md",
+        "size": 6329,
+        "hash": "b3bc2effeb7f4623b1c9807ac7d7d02c",
+        "extension": ".md"
+      },
+      {
+        "filename": "ux-ui-design-audit.md",
+        "relative_path": "commands/ux-ui-design-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/ux-ui-design-audit.md",
+        "size": 18675,
+        "hash": "aed24b8f75670974fb7709f3afc99907",
+        "extension": ".md"
+      },
+      {
+        "filename": "pre-flight-check.md",
+        "relative_path": "commands/pre-flight-check.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/pre-flight-check.md",
+        "size": 11370,
+        "hash": "089882b3b8c5d8383d2fc85f4e9a32c1",
+        "extension": ".md"
+      },
+      {
+        "filename": "optimize-images.md",
+        "relative_path": "commands/optimize-images.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/optimize-images.md",
+        "size": 5505,
+        "hash": "c974fedbb0ef6d26f278de66e4bc5336",
+        "extension": ".md"
+      },
+      {
+        "filename": "content-designer-ux-writer-audit.md",
+        "relative_path": "commands/content-designer-ux-writer-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/content-designer-ux-writer-audit.md",
+        "size": 17048,
+        "hash": "97ac373ff8340df8b1b0283a4455020c",
+        "extension": ".md"
+      },
+      {
+        "filename": "validate-content-structure.md",
+        "relative_path": "commands/validate-content-structure.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/validate-content-structure.md",
+        "size": 5653,
+        "hash": "b5fbb088929fcc539345c3036e1d59e7",
+        "extension": ".md"
+      },
+      {
+        "filename": "seo-specialist-audit.md",
+        "relative_path": "commands/seo-specialist-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/seo-specialist-audit.md",
+        "size": 30221,
+        "hash": "fc0747507d0ae68e2ec49aa2b7119695",
+        "extension": ".md"
+      },
+      {
+        "filename": "cross-browser-test.md",
+        "relative_path": "commands/cross-browser-test.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/cross-browser-test.md",
+        "size": 5395,
+        "hash": "0d9e002f64a8f3297a6daffa203f9fcb",
+        "extension": ".md"
+      },
+      {
+        "filename": "deploy-to-production.md",
+        "relative_path": "commands/deploy-to-production.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/deploy-to-production.md",
+        "size": 9451,
+        "hash": "d16b7323b44414afd4cf7c72d28b3e93",
+        "extension": ".md"
+      },
+      {
+        "filename": "run-all-audits.md",
+        "relative_path": "commands/run-all-audits.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/run-all-audits.md",
+        "size": 11895,
+        "hash": "fa926f8aa6c39696a62ddbb76dfc7c7d",
+        "extension": ".md"
+      },
+      {
+        "filename": "performance-audit.md",
+        "relative_path": "commands/performance-audit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/performance-audit.md",
+        "size": 3553,
+        "hash": "29b42b631d919588b84b238c9acc7042",
+        "extension": ".md"
+      },
+      {
+        "filename": "update-sitemap.md",
+        "relative_path": "commands/update-sitemap.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/update-sitemap.md",
+        "size": 5115,
+        "hash": "1301ce72fbb91be6ce59b0bda7d6c2ce",
+        "extension": ".md"
+      },
+      {
+        "filename": "quick-fix-commit.md",
+        "relative_path": "commands/quick-fix-commit.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/quick-fix-commit.md",
+        "size": 3108,
+        "hash": "ef0e6500afdf1b847b9d83c5202fc526",
+        "extension": ".md"
+      },
+      {
+        "filename": "dependency-update.md",
+        "relative_path": "commands/dependency-update.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/dependency-update.md",
+        "size": 6322,
+        "hash": "7c81cb51a6e4c047cf1896cfbf56714f",
+        "extension": ".md"
+      },
+      {
+        "filename": "commit-and-push-to-remote.md",
+        "relative_path": "commands/commit-and-push-to-remote.md",
+        "full_path": "/Users/dalerogers/Projects/portfolio/portfolio_v3/.cursor/commands/commit-and-push-to-remote.md",
+        "size": 7212,
+        "hash": "81bd10dff5f4a26d8134901b4a9bab5a",
+        "extension": ".md"
+      }
+    ]
+  },
+  {
+    "project": "dale_rogers_portfolio",
+    "path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio",
+    "has_cursor_dir": true,
+    "rules": [
+      {
+        "filename": "github-workflow.mdc",
+        "relative_path": "rules/github-workflow.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/github-workflow.mdc",
+        "size": 4417,
+        "hash": "9935aba0840b68126a1956b282c9d287",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "mandatory.mdc",
+        "relative_path": "rules/mandatory.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/mandatory.mdc",
+        "size": 5319,
+        "hash": "ec6ca612e66a2e66241bff34d00f3061",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "theme-system.mdc",
+        "relative_path": "rules/theme-system.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/theme-system.mdc",
+        "size": 5443,
+        "hash": "ebc4d9c4c13a9b653ed53b9f2a164326",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "update-docs.mdc",
+        "relative_path": "rules/update-docs.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/update-docs.mdc",
+        "size": 8260,
+        "hash": "257409ed43f20154b1a5d2fdbcf99dcd",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "azure-deployment.mdc",
+        "relative_path": "rules/azure-deployment.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/azure-deployment.mdc",
+        "size": 5437,
+        "hash": "03cb6e62d9e080a188109b93a83a41cf",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "phase-1-improvements.mdc",
+        "relative_path": "rules/phase-1-improvements.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/phase-1-improvements.mdc",
+        "size": 8273,
+        "hash": "411004249ce200aa5b6d70ba6476b45c",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "component-theming.mdc",
+        "relative_path": "rules/component-theming.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/component-theming.mdc",
+        "size": 47,
+        "hash": "15bd3808efbb091cd42f0844735ba91d",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "documentation.mdc",
+        "relative_path": "rules/documentation.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/documentation.mdc",
+        "size": 6261,
+        "hash": "475853345a5738d6c5a72b98bde2c841",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "layout-patterns.mdc",
+        "relative_path": "rules/layout-patterns.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/layout-patterns.mdc",
+        "size": 2231,
+        "hash": "2ac1dbacae722baeccf5ee7ad8020c89",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "aesthetic-standards.mdc",
+        "relative_path": "rules/aesthetic-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/aesthetic-standards.mdc",
+        "size": 6771,
+        "hash": "1072e23a82e5cbaf8b0bb5444d704a4a",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "scratch-projects.mdc",
+        "relative_path": "rules/scratch-projects.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/scratch-projects.mdc",
+        "size": 4262,
+        "hash": "53168df7df65b0ac639364c2c0bb92be",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "rules.mdc",
+        "relative_path": "rules/rules.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/rules.mdc",
+        "size": 3454,
+        "hash": "04c2ea7601a8433e3779971408ba0c26",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "development-standards.mdc",
+        "relative_path": "rules/development-standards.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/development-standards.mdc",
+        "size": 14124,
+        "hash": "78989c85dce106e59a52a8ba15c166cf",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "component-organization.mdc",
+        "relative_path": "rules/component-organization.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/component-organization.mdc",
+        "size": 2868,
+        "hash": "5ac92a28c8d8752fd5b4fa5d6abf2a8a",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "content-collections.mdc",
+        "relative_path": "rules/content-collections.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/content-collections.mdc",
+        "size": 873,
+        "hash": "403c3922a654b96143a796a3b582860c",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "no-postcss.mdc",
+        "relative_path": "rules/no-postcss.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/no-postcss.mdc",
+        "size": 3502,
+        "hash": "90f21a91351e989fc4504e29cb62abde",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "content-changes.mdc",
+        "relative_path": "rules/content-changes.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/content-changes.mdc",
+        "size": 2042,
+        "hash": "44b2e4d19ec4d2adb350540f46d86fa6",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "content-voice.mdc",
+        "relative_path": "rules/content-voice.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/content-voice.mdc",
+        "size": 9359,
+        "hash": "201ad56b1bcd0fd9da46a02f7c94c4b2",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "deployment.mdc",
+        "relative_path": "rules/deployment.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/deployment.mdc",
+        "size": 5084,
+        "hash": "5f65386f111094e5578f2439af21732b",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "mdc.mdc",
+        "relative_path": "rules/mdc.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/mdc.mdc",
+        "size": 8448,
+        "hash": "60c2a0255ecdc6d53a95b755eb03624f",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "style-guide.mdc",
+        "relative_path": "rules/style-guide.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/style-guide.mdc",
+        "size": 3007,
+        "hash": "5ed0650e63633cc837b813f0045744e7",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "performance.mdc",
+        "relative_path": "rules/performance.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/performance.mdc",
+        "size": 3131,
+        "hash": "d4b53fbe22dbb933f4c89d35d6a22bca",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "troubleshooting.mdc",
+        "relative_path": "rules/troubleshooting.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/troubleshooting.mdc",
+        "size": 8975,
+        "hash": "7f7b365c1e429daf0acef39487f7efcd",
+        "extension": ".mdc"
+      },
+      {
+        "filename": "accessibility.mdc",
+        "relative_path": "rules/accessibility.mdc",
+        "full_path": "/Users/dalerogers/Projects/portfolio/dale_rogers_portfolio/.cursor/rules/accessibility.mdc",
+        "size": 8133,
+        "hash": "2ad3b5037bfaeb6490dd59092a9a237d",
+        "extension": ".mdc"
+      }
+    ],
+    "commands": []
+  }
+]
