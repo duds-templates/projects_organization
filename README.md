@@ -1,124 +1,145 @@
 # Projects Directory
 
-**Last Updated:** 07/11/2025 14:40
+Centralized workspace for all development projects with automated organization, analysis, and management tools.
 
-## Overview
+## 🌟 Quick Links
 
-This directory contains all projects organised using a structured system with automated tooling for project management, analysis, and synchronisation.
+- **Documentation:** [`docs/`](docs/) - Comprehensive guides and reports
+- **Scripts:** [`scripts/`](scripts/) - Automation and management tools  
+- **Analysis:** [`analysis/`](analysis/) - Project analysis data
+- **Registry:** [`.project-registry.json`](.project-registry.json) - Project metadata
 
-## 📊 Statistics
+## 📊 Overview
 
-- **Total Projects:** 23
-- **Local Projects:** 6
-- **GitHub Repositories:** 18
-- **Synced Projects:** 1
+**Total Projects:** 19  
+**GitHub Repositories:** 23 across 4 locations  
+**Organizations:** 3 (production, portfolio, templates)
 
-### Maturity Distribution
-
-- **Experimental:** 4 projects
-- **Archived:** 2 projects
-- **Unknown:** 17 projects
-
-### Technology Stacks
-
-- **Unknown:** 13 projects
-- **TypeScript:** 6 projects
-- **JavaScript:** 2 projects
-- **CSS:** 1 projects
-- **Jupyter Notebook:** 1 projects
-
-
-## 📁 Directory Structure
+## 📁 Project Structure
 
 ```
 ~/Projects/
-├── active/              # Active development projects
-│   ├── production/      # Deployed or production-ready
-│   ├── development/     # In active development
-│   └── experimental/    # Early-stage experiments
-├── portfolio/           # Portfolio and personal branding projects
-├── archived/            # Archived projects (kept for reference)
-├── templates/           # Project templates and starters
-├── learning/            # Tutorial follow-alongs and learning projects
-└── cursor_rules_library/ # Centralised Cursor rules and commands
+├── active/
+│   ├── production/           # Production-ready (1 project)
+│   ├── development/          # Active development
+│   └── experimental/         # Experiments (7 projects)
+├── portfolio/                # Portfolio projects (3)
+├── archived/                 # Archived projects (3)
+├── learning/                 # Forks and learning (5)
+├── cursor_rules_library/     # Cursor AI rules (84 rules, 34 commands)
+├── templates/                # Project templates (5 stacks)
+├── docs/                     # Documentation
+├── analysis/                 # Analysis data
+├── scripts/                  # Automation scripts
+└── .project-registry.json    # Project metadata
 ```
 
-## 🔧 Management Tools
+## 🚀 Quick Start
 
-### Available Scripts
-
-- **`sync_projects.sh`** - Sync all projects with GitHub
-- **`update_registry.py`** - Refresh project metadata
-- **`check_project_health.sh`** - Run health checks on all projects
-
-### Analysis Files
-
-- **`.project-registry.json`** - Machine-readable project metadata
-- **`project_comparison.json`** - Local vs remote comparison analysis
-- **`consolidation_recommendations.json`** - Consolidation and archive recommendations
-- **`cursor_files_inventory.json`** - Cursor rules and commands inventory
-
-## 📋 Quick Reference
-
-### Top Projects by Maturity
-
-1. **cursor_rules_library** - 3.0/10 (Experimental)
-2. **templates** - 3.0/10 (Experimental)
-3. **portfolio** - 2.0/10 (Experimental)
-4. **active** - 2.0/10 (Experimental)
-5. **learning** - 0.0/10 (Archived)
-
-
-## 🚀 Getting Started
-
-### View All Projects
-
+### View Projects
 ```bash
+# List all projects
 cat .project-registry.json | jq '.projects[] | {name, maturity: .maturity.level, tech: .tech_stack.primary_language}'
+
+# By technology
+cat .project-registry.json | jq '.projects[] | select(.tech_stack.primary_language == "TypeScript")'
 ```
 
-### Find Projects by Technology
-
+### Sync Projects
 ```bash
-# TypeScript projects
-cat .project-registry.json | jq '.projects[] | select(.tech_stack.primary_language == "TypeScript") | .name'
-
-# Python projects
-cat .project-registry.json | jq '.projects[] | select(.tech_stack.primary_language == "Python") | .name'
+scripts/sync_projects.sh status    # Check sync status
+scripts/sync_projects.sh pull      # Pull all projects
+scripts/sync_projects.sh push      # Push all projects
 ```
 
-### Check Project Status
-
+### Health Check
 ```bash
-./check_project_health.sh
+scripts/check_project_health.sh               # All projects
+scripts/check_project_health.sh aegrid        # Specific project
 ```
 
-## 📚 Cursor Rules Library
+### Update Metadata
+```bash
+scripts/update_registry.py                    # Refresh all metadata
+```
 
-A centralised repository of Cursor rules and commands organised by technology stack and purpose. See `cursor_rules_library/README.md` for details.
+## 🏢 GitHub Organizations
 
-## 🔄 Sync Guidelines
+### duds-production
+Enterprise-grade production systems  
+→ https://github.com/duds-production
 
-1. **Before starting work:** Run `./sync_projects.sh pull` to get latest changes
-2. **After finishing work:** Run `./sync_projects.sh push` to push changes
-3. **Weekly:** Run `./update_registry.py` to refresh project metadata
+**Repositories:**
+- **aegrid** - Energy grid management platform (9.5/10 maturity)
+
+### duds-portfolio
+Portfolio and personal branding projects  
+→ https://github.com/duds-portfolio
+
+**Repositories:**
+- **dale_rogers_portfolio** - Primary portfolio (Astro) (7.5/10)
+- **portfolio_v3** - HTML/CSS portfolio (6.5/10)
+- **portfolio** - MDX portfolio
+
+### duds-templates
+Reusable templates and development resources  
+→ https://github.com/duds-templates
+
+**Repositories:**
+- **projects_organization** - This management system
+- **cursor_rules_library** - Cursor AI rules and commands
+- **project_templates** - 5 stack templates
+
+## 🛠️ Management Tools
+
+| Script | Purpose |
+|--------|---------|
+| `scripts/sync_projects.sh` | Sync all projects with GitHub |
+| `scripts/check_project_health.sh` | Run health checks |
+| `scripts/update_registry.py` | Refresh project metadata |
+| `scripts/verify_github_setup.sh` | Verify GitHub organization setup |
+
+## 📚 Documentation
+
+- **[Main Guide](docs/README.md)** - Complete overview
+- **[Tech Stacks](docs/TECH_STACKS.md)** - Technology breakdown
+- **[Maturity Report](docs/MATURITY_REPORT.md)** - Project assessments
+- **[Implementation Summary](docs/IMPLEMENTATION_SUMMARY.md)** - Setup history
+- **[GitHub Reorganization](docs/GITHUB_REORGANIZATION_SUCCESS.md)** - Organization details
+
+## 🎯 Key Features
+
+- ✅ **Automated Analysis** - Technology stack detection, maturity ranking
+- ✅ **Health Monitoring** - Automated health checks across all projects
+- ✅ **Sync Management** - One-command sync for all repositories
+- ✅ **Organization System** - Structured folders by purpose and maturity
+- ✅ **Template Library** - 5 production-ready project templates
+- ✅ **Cursor Rules** - 84 rules + 34 commands organized by tech stack
+- ✅ **Metadata Registry** - Centralized project information
+
+## 🔄 Regular Maintenance
+
+**Daily:** Check sync status before/after work  
+**Weekly:** Run health checks, update registry  
+**Monthly:** Review maturity scores, archive candidates
 
 ## 📝 Naming Conventions
 
-- All project folders use `snake_case` naming
-- No special characters except underscores
-- Lowercase only
+- **All projects:** snake_case
+- **GitHub repos:** snake_case
+- **Organizations:** kebab-case (duds-production, duds-portfolio, duds-templates)
 
-## 🗃️ Archive Policy
+## 🌏 Regional Standards
 
-Projects are candidates for archiving if:
-- No commits in 2+ years
-- Maturity score below 2/10
-- Superseded by newer versions
-- Forked repositories with no modifications
-
-See `consolidation_recommendations.json` for current recommendations.
+- Australian English spelling
+- DD/MM/YYYY date format
+- 24-hour time format
+- $AUD currency
+- Metric measurements
 
 ---
 
-*Generated automatically by project organisation system*
+**Last Updated:** 07/11/2025  
+**System Version:** 1.0.0  
+**Managed By:** Automated project organization system
+

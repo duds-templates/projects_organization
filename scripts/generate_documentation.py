@@ -8,6 +8,8 @@ from datetime import datetime
 from typing import Dict, List, Any
 
 PROJECTS_DIR = Path('/Users/dalerogers/Projects')
+DOCS_DIR = PROJECTS_DIR / 'docs'
+ANALYSIS_DIR = PROJECTS_DIR / 'analysis'
 
 
 def load_data_files():
@@ -15,25 +17,25 @@ def load_data_files():
     data = {}
     
     # Load comparison data
-    comparison_file = PROJECTS_DIR / 'project_comparison.json'
+    comparison_file = ANALYSIS_DIR / 'project_comparison.json'
     if comparison_file.exists():
         with open(comparison_file, 'r') as f:
             data['comparison'] = json.load(f)
     
     # Load GitHub repos
-    github_file = PROJECTS_DIR / 'github_repos_duds.json'
+    github_file = ANALYSIS_DIR / 'github_repos_duds.json'
     if github_file.exists():
         with open(github_file, 'r') as f:
             data['github_repos'] = json.load(f)
     
     # Load consolidation recommendations
-    consolidation_file = PROJECTS_DIR / 'consolidation_recommendations.json'
+    consolidation_file = ANALYSIS_DIR / 'consolidation_recommendations.json'
     if consolidation_file.exists():
         with open(consolidation_file, 'r') as f:
             data['consolidation'] = json.load(f)
     
     # Load cursor inventory
-    cursor_file = PROJECTS_DIR / 'cursor_files_inventory.json'
+    cursor_file = ANALYSIS_DIR / 'cursor_files_inventory.json'
     if cursor_file.exists():
         with open(cursor_file, 'r') as f:
             data['cursor'] = json.load(f)
@@ -467,7 +469,7 @@ def main():
         json.dump(registry, f, indent=2, ensure_ascii=False)
     print(f"✅ Saved: {registry_file}")
     
-    # Generate README
+    # Generate README (keep in root for GitHub)
     print("📄 Generating README.md...")
     readme_content = generate_readme(data, registry)
     readme_file = PROJECTS_DIR / 'README.md'
@@ -478,7 +480,7 @@ def main():
     # Generate TECH_STACKS.md
     print("📄 Generating TECH_STACKS.md...")
     tech_content = generate_tech_stacks_doc(data, registry)
-    tech_file = PROJECTS_DIR / 'TECH_STACKS.md'
+    tech_file = DOCS_DIR / 'TECH_STACKS.md'
     with open(tech_file, 'w', encoding='utf-8') as f:
         f.write(tech_content)
     print(f"✅ Saved: {tech_file}")
@@ -486,7 +488,7 @@ def main():
     # Generate MATURITY_REPORT.md
     print("📄 Generating MATURITY_REPORT.md...")
     maturity_content = generate_maturity_report(data, registry)
-    maturity_file = PROJECTS_DIR / 'MATURITY_REPORT.md'
+    maturity_file = DOCS_DIR / 'MATURITY_REPORT.md'
     with open(maturity_file, 'w', encoding='utf-8') as f:
         f.write(maturity_content)
     print(f"✅ Saved: {maturity_file}")

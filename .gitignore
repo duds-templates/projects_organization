@@ -5,27 +5,11 @@ archived/
 templates/
 learning/
 cursor_rules_library/
-scratch/
-aegrid/
-dale_rogers_portfolio/
-portfolio_v3/
-procedural_design_scratch/
 
-# Exclude project-specific files
-Scratch/
-
-# Keep management files (explicitly track these)
-!README.md
-!TECH_STACKS.md
-!MATURITY_REPORT.md
-!IMPLEMENTATION_SUMMARY.md
-!GITHUB_SYNC_STATUS.md
-!GITHUB_REORGANIZATION_PLAN.md
-!EXECUTE_GITHUB_REORG.md
-!.project-registry.json
-!*.sh
-!*.py
-!*.json
+# Track organizational folders
+!docs/
+!analysis/
+!scripts/
 
 # System files
 .DS_Store

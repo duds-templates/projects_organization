@@ -5,13 +5,18 @@ Update project registry with latest metadata
 import sys
 import subprocess
 from pathlib import Path
+import os
 
-# Add Projects dir to path so we can import our scripts
-sys.path.insert(0, str(Path(__file__).parent))
+# Get the project root directory
+PROJECTS_DIR = Path(__file__).parent.parent
+SCRIPTS_DIR = PROJECTS_DIR / 'scripts'
 
 print("=" * 70)
 print("UPDATING PROJECT REGISTRY")
 print("=" * 70)
+
+# Change to scripts directory for execution
+os.chdir(SCRIPTS_DIR)
 
 print("\n🔄 Re-running project analysis...")
 
@@ -70,11 +75,11 @@ print("✅ REGISTRY UPDATE COMPLETE")
 print("=" * 70)
 print("\nUpdated files:")
 print("  • .project-registry.json")
-print("  • README.md")
-print("  • TECH_STACKS.md")
-print("  • MATURITY_REPORT.md")
-print("  • project_comparison.json")
-print("  • consolidation_recommendations.json")
-print("  • cursor_files_inventory.json")
+print("  • docs/README.md")
+print("  • docs/TECH_STACKS.md")
+print("  • docs/MATURITY_REPORT.md")
+print("  • analysis/project_comparison.json")
+print("  • analysis/consolidation_recommendations.json")
+print("  • analysis/cursor_files_inventory.json")
 print("=" * 70)
 
