@@ -6,6 +6,9 @@ templates/
 learning/
 cursor_rules_library/
 
+# Work folder - NEVER sync client work to GitHub
+work/
+
 # Track organizational folders
 !docs/
 !analysis/
