@@ -26,6 +26,8 @@ Centralized workspace for all development projects with automated organization, 
 ├── portfolio/                # Portfolio projects (3)
 ├── archived/                 # Archived projects (3)
 ├── learning/                 # Forks and learning (5)
+├── work/                     # 🔒 Confidential client work (NEVER synced)
+│   └── clients/              # Client consulting projects
 ├── cursor_rules_library/     # Cursor AI rules (84 rules, 34 commands)
 ├── templates/                # Project templates (5 stacks)
 ├── docs/                     # Documentation
@@ -33,6 +35,18 @@ Centralized workspace for all development projects with automated organization, 
 ├── scripts/                  # Automation scripts
 └── .project-registry.json    # Project metadata
 ```
+
+## 🔒 Confidential Work
+
+The `work/` folder contains confidential client consulting projects:
+- ✅ **NEVER synced to GitHub** (excluded in .gitignore)
+- ✅ Contains client-specific documentation, analysis, and deliverables
+- ✅ Supports .md, .docx, .xlsx, .ipynb files
+- ⚠️ **Ensure separate backups** (not version controlled)
+
+Current client projects:
+- Technology Framework Pilot
+- AI Capability Design & Enablement
 
 ## 🚀 Quick Start
 
