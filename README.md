@@ -44,9 +44,10 @@ The `work/` folder contains confidential client consulting projects:
 - ✅ Supports .md, .docx, .xlsx, .ipynb files
 - ⚠️ **Ensure separate backups** (not version controlled)
 
-Current client projects:
-- Technology Framework Pilot
-- AI Capability Design & Enablement
+**Current Clients:**
+- **DCCEEW** (Department of Climate Change, Energy, the Environment and Water)
+  - 2025: Technology Framework Pilot
+  - 2025: AI Capability Design & Enablement
 
 ## 🚀 Quick Start
 
