@@ -7,7 +7,7 @@ import subprocess
 from pathlib import Path
 
 PROJECTS_DIR = Path('/Users/dalerogers/Projects')
-GITHUB_REPOS_FILE = PROJECTS_DIR / 'github_repos_duds.json'
+GITHUB_REPOS_FILE = PROJECTS_DIR / 'analysis' / 'github_repos_duds.json'
 
 
 def get_git_remote_name(project_path: Path) -> tuple:
