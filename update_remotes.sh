@@ -93,8 +93,24 @@ update_remote "/Users/dalerogers/Projects/archived/critical_view360" \
 update_remote "/Users/dalerogers/Projects/archived/oi__piranha" \
     "git@github.com:Duds/oi_piranha.git"
 
-# Templates
-echo "📚 Template Projects"
+# Templates & Management
+echo "📚 Template Projects & Management System"
+
+# Projects management system (the ~/Projects folder itself)
+cd "/Users/dalerogers/Projects"
+if [ -d ".git" ]; then
+    echo -e "${BLUE}📝 Updating: Projects Management System${NC}"
+    echo "   New: git@github.com:duds-templates/projects_organization.git"
+    
+    if git remote get-url origin >/dev/null 2>&1; then
+        git remote set-url origin "git@github.com:duds-templates/projects_organization.git"
+    else
+        git remote add origin "git@github.com:duds-templates/projects_organization.git"
+    fi
+    echo -e "${GREEN}✅ Successfully updated${NC}"
+    echo ""
+fi
+
 update_remote "/Users/dalerogers/Projects/cursor_rules_library" \
     "git@github.com:duds-templates/cursor_rules_library.git"
 

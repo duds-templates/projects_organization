@@ -124,6 +124,18 @@ echo "Step 4: Creating New Repositories in duds-templates"
 echo "======================================================================="
 echo ""
 
+# Create projects_organization (meta repo for management system)
+echo -e "${BLUE}📚 Creating projects_organization (management system)...${NC}"
+cd /Users/dalerogers/Projects
+
+if gh repo create duds-templates/projects_organization --public --source=. --push \
+  --description "Project organization system: analysis, automation scripts, and documentation for managing all repositories"; then
+    echo -e "${GREEN}✅ projects_organization created${NC}"
+else
+    echo -e "${RED}❌ Failed to create projects_organization${NC}"
+fi
+echo ""
+
 # Create cursor_rules_library
 echo -e "${BLUE}📚 Creating cursor_rules_library...${NC}"
 cd /Users/dalerogers/Projects/cursor_rules_library
